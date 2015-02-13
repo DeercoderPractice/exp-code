@@ -1,0 +1,36 @@
+README
+=====
+
+1. first write the source code
+
+2. write the basic CMakeLists.txt file, which includes:
+		+) mininum version required
+
+		+) project name and information
+
+		+) target rules, includes src, target name...
+
+
+
+
+
+How it works
+======
+
+1. Using cmakeLists.txt to generate Makefiles automatically
+
+2. using make and generated Makefile to make.
+
+
+
+
+Append
+======
+
+cmake -i
+
+choose the right value of our self-defined MACRO(ON/OFF)
+
+then rebuild and remake to generate the executable program.
+
+NOTE: the source code must include config.h files, we must add the config.h files to set its initial value.
