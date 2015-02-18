@@ -77,4 +77,3 @@ def write_to_file(img_name,food_type, file_name):
 	f = open(file_name, "w")
 	f.write(doc.toprettyxml())
 	f.close()
-
