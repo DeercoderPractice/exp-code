@@ -24,3 +24,12 @@ proguard/
 
 # Log Files
 *.log
+
+# xml Files.
+*.xml
+
+# for MAC OS
+.DS_Store
+
+# omit for output
+a.out
