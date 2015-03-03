@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<canvas id="myCanvas" width="200" height="100"
+style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+
+<script>
+function draw_pixel(ctx, point_x, point_y)
+{
+	var myImageData = ctx.createImageData(1, 1);
+	myImageData.data[0]=255;
+	myImageData.data[1]=0;
+	myImageData.data[2]=0;
+	myImageData.data[3]=255;
+	ctx.putImageData(myImageData, point_x, point_y);
+
+}
+
+function draw_ellipse(ctx, point_x, point_y, radius_x, radius_y)
+{
+   draw_pixel(ctx, point_x + radius_x, point_y + radius_y);
+   draw_pixel(ctx, point_x - radius_x, point_y + radius_y);
+   draw_pixel(ctx, point_x + radius_x, point_y - radius_y);
+   draw_pixel(ctx, point_x - radius_x, point_y - radius_y);
+}
+
+</script>
+
+<script>
+function myCanvas()
+{
+	var c = document.getElementById("myCanvas"); 
+	var ctx = c.getContext("2d");
+
+	// radius for x and y coordinate	
+	rx = 90;
+	ry = 20;
+
+	cx = 100;
+	cy = 50;
+	
+        sx_sqrt = rx * rx;
+        sy_sqrt = ry * ry;
+        x = 0;
+	y = ry; 
+
+	px = 0;
+	py = 2 * sx_sqrt * y;
+	
+	draw_ellipse(ctx, cx, cy, x, y);
+
+	p = sy_sqrt - (sx_sqrt * ry) + (0.25*sx_sqrt)
+	
+	while(px < py)
+	{
+		x = x + 1;
+		px = px + 2 * sx_sqrt;
+		if (p < 0)
+			p = p + sy_sqrt+px;
+		else
+		{	
+			y = y - 1;
+			py = py - 2 * sx_sqrt;
+			p = p + sy_sqrt + px - py;
+		}
+		draw_ellipse(ctx, cx, cy, x, y);
+	}
+
+	p=sy_sqrt*(x+0.5)*(x+0.5)+sx_sqrt*(y-1)*(y-1)-sx_sqrt*sy_sqrt;
+	while(y > 0)
+	{
+		y = y - 1;
+		py = py - 2 * sy_sqrt;
+		if (p > 0)
+			p = p+sx_sqrt-py;
+		else
+		{
+			x = x + 1;
+			px = px + 2 * sy_sqrt;
+			p = p + sx_sqrt - py+px;
+		}
+		draw_ellipse(ctx, cx, cy, x, y);
+	}
+}
+
+
+</script>
+<p><button onclick="myCanvas()">Draw Ellipse</button></p>
+
+</body>
+</html>
+
