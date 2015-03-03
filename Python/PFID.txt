@@ -1,0 +1,3311 @@
+Resturant: Arbys
+Food:  Bacon Beef and Cheddar Sandwich 
+Calories:  521
+
+image: /img_1852.jpg   
+image: /img_1854.jpg   
+image: /img_1855.jpg   
+image: /img_1856.jpg   
+image: /img_1857.jpg   
+image: /img_1858.jpg   
+image: /img_1859.jpg   
+ 
+image: /img_2619.jpg   
+image: /img_2620.jpg   
+image: /img_2622.jpg   
+image: /img_2623.jpg   
+image: /img_2624.jpg   
+image: /img_2625.jpg   
+image: /img_2626.jpg   
+ 
+image: /img 019.jpg   
+image: /img 020.jpg   
+image: /img 021.jpg   
+image: /img 022.jpg   
+image: /img 023.jpg   
+image: /img 024.jpg   
+image: /img 025.jpg   
+
+Resturant: Arbys
+Food:  Beef and Cheddar Sandwich 
+Calories:  445  
+
+image: /img_1871.jpg   
+image: /img_1873.jpg   
+image: /img_1874.jpg   
+image: /img_1875.jpg   
+image: /img_1876.jpg   
+image: /img_1877.jpg   
+image: /img_1878.jpg   
+ 
+image: /img 001.jpg   
+image: /img 003.jpg   
+image: /img 004.jpg   
+image: /img 005.jpg   
+image: /img 006.jpg   
+image: /img 007.jpg   
+image: /img 008.jpg   
+ 
+image: /img 010.jpg   
+image: /img 011.jpg   
+image: /img 012.jpg   
+image: /img 013.jpg   
+image: /img 014.jpg   
+image: /img 015.jpg   
+image: /img 016.jpg   
+image: /img 017.jpg   
+
+Resturant: Arbys
+Food:  Chicken Club Salad 
+Calories:  425  
+  
+image: /img_1842.jpg   
+image: /img_1844.jpg   
+image: /img_1846.jpg   
+image: /img_1847.jpg   
+image: /img_1848.jpg   
+image: /img_1849.jpg   
+image: /img_1850.jpg   
+ 
+image: /img 027.jpg   
+image: /img 028.jpg   
+image: /img 029.jpg   
+image: /img 030.jpg   
+image: /img 031.jpg   
+image: /img 032.jpg   
+image: /img 033.jpg   
+ 
+image: /img 035.jpg   
+image: /img 036.jpg   
+image: /img 037.jpg   
+image: /img 038.jpg   
+image: /img 039.jpg   
+image: /img 040.jpg   
+image: /img 041.jpg   
+ 
+image: /img_2701.jpg   
+image: /img_2702.jpg   
+image: /img_2703.jpg   
+image: /img_2704.jpg   
+image: /img_2705.jpg   
+image: /img_2706.jpg   
+image: /img_2707.jpg   
+
+Resturant: Arbys
+Food:  Chicken Fillet Sandwich 
+Calories:  510  
+  
+image: /img_1852.jpg   
+image: /img_1862.jpg   
+image: /img_1863.jpg   
+image: /img_1864.jpg   
+image: /img_1865.jpg   
+image: /img_1866.jpg   
+image: /img_1867.jpg   
+ 
+image: /img_2637.jpg   
+image: /img_2645.jpg   
+image: /img_2646.jpg   
+image: /img_2647.jpg   
+image: /img_2648.jpg   
+image: /img_2649.jpg   
+image: /img_2650.jpg   
+ 
+image: /img 044.jpg   
+image: /img 046.jpg   
+image: /img 047.jpg   
+image: /img 048.jpg   
+image: /img 049.jpg   
+image: /img 050.jpg   
+image: /img 051.jpg   
+
+Resturant: Arbys
+Food:  Classic Italian Toasted Sub 
+Calories:  787  
+  
+image: /img_1815.jpg   
+image: /img_1816.jpg   
+image: /img_1817.jpg   
+image: /img_1818.jpg   
+image: /img_1819.jpg   
+image: /img_1820.jpg   
+image: /img_1822.jpg   
+ 
+image: /img_2654.jpg   
+image: /img_2655.jpg   
+image: /img_2656.jpg   
+image: /img_2657.jpg   
+image: /img_2658.jpg   
+image: /img_2659.jpg   
+image: /img_2660.jpg   
+ 
+image: /img 053.jpg   
+image: /img 055.jpg   
+image: /img 056.jpg   
+image: /img 057.jpg   
+image: /img 058.jpg   
+image: /img 059.jpg   
+image: /img 060.jpg   
+
+Resturant: Arbys
+Food:  Drink 
+Calories:  150   
+ 
+image: /img_1908.jpg   
+image: /img_1910.jpg   
+image: /img_1911.jpg   
+image: /img_1912.jpg   
+image: /img_1913.jpg   
+image: /img_1914.jpg   
+image: /img_1915.jpg   
+
+Resturant: Arbys
+Food:  Philly Beef Toasted Sub 
+Calories:  739  
+ 
+ 
+image: /img_1833.jpg   
+image: /img_1835.jpg   
+image: /img_1836.jpg   
+image: /img_1837.jpg   
+image: /img_1838.jpg   
+image: /img_1839.jpg   
+image: /img_1840.jpg   
+ 
+image: /img_2663.jpg   
+image: /img_2664.jpg   
+image: /img_2665.jpg   
+image: /img_2666.jpg   
+image: /img_2667.jpg   
+image: /img_2668.jpg   
+image: /img_2669.jpg   
+ 
+image: /img 062.jpg   
+image: /img 064.jpg   
+image: /img 065.jpg   
+image: /img 066.jpg   
+image: /img 067.jpg   
+image: /img 068.jpg   
+image: /img 069.jpg   
+
+Resturant: Arbys
+Food:  Reuben Turkey Sandwich 
+Calories:  594  
+  
+image: /img_1900.jpg   
+image: /img_1901.jpg   
+image: /img_1902.jpg   
+image: /img_1903.jpg   
+image: /img_1904.jpg   
+image: /img_1905.jpg   
+image: /img_1906.jpg   
+ 
+image: /img_2685.jpg   
+image: /img_2686.jpg   
+image: /img_2687.jpg   
+image: /img_2688.jpg   
+image: /img_2689.jpg   
+image: /img_2690.jpg   
+image: /img_2691.jpg   
+ 
+image: /img 071.jpg   
+image: /img 073.jpg   
+image: /img 074.jpg   
+image: /img 075.jpg   
+image: /img 076.jpg   
+image: /img 077.jpg   
+image: /img 078.jpg   
+ 
+image: /img 078.jpg   
+image: /img 079.jpg   
+image: /img 080.jpg   
+image: /img 081.jpg   
+image: /img 082.jpg   
+image: /img 083.jpg   
+image: /img 084.jpg   
+
+Resturant: Arbys
+Food:  Roast Turkey and Swiss Sandwich 
+Calories:  708   
+
+image: /img_1880.jpg   
+image: /img_1882.jpg   
+image: /img_1883.jpg   
+image: /img_1884.jpg   
+image: /img_1885.jpg   
+image: /img_1886.jpg   
+image: /img_1887.jpg   
+ 
+image: /img_2629.jpg   
+image: /img_2630.jpg   
+image: /img_2631.jpg   
+image: /img_2632.jpg   
+image: /img_2633.jpg   
+image: /img_2634.jpg   
+image: /img_2635.jpg   
+ 
+image: /img 080.jpg   
+image: /img 082.jpg   
+image: /img 083.jpg   
+image: /img 084.jpg   
+image: /img 085.jpg   
+image: /img 086.jpg   
+image: /img 087.jpg   
+
+Resturant: Arbys
+Food:  Roast Turkey Ranch Sandwich 
+Calories:  818  
+ 
+image: /img_1889.jpg   
+image: /img_1891.jpg   
+image: /img_1892.jpg   
+image: /img_1893.jpg   
+image: /img_1894.jpg   
+image: /img_1895.jpg   
+image: /img_1896.jpg   
+ 
+image: /img 089.jpg   
+image: /img 091.jpg   
+image: /img 092.jpg   
+image: /img 093.jpg   
+image: /img 094.jpg   
+image: /img 095.jpg   
+image: /img 096.jpg   
+ 
+image: /img 098.jpg   
+image: /img 099.jpg   
+image: /img 100.jpg   
+image: /img 101.jpg   
+image: /img 102.jpg   
+image: /img 103.jpg   
+image: /img 104.jpg   
+ 
+image: /img_2693.jpg   
+image: /img_2695.jpg   
+image: /img_2696.jpg   
+image: /img_2697.jpg   
+image: /img_2698.jpg   
+image: /img_2699.jpg   
+image: /img_2700.jpg   
+
+Resturant: Arbys
+Food:  Turkey Bacon Club Toasted Sub 
+Calories:  619  
+  
+image: /img_1824.jpg   
+image: /img_1825.jpg   
+image: /img_1826.jpg   
+image: /img_1827.jpg   
+image: /img_1828.jpg   
+image: /img_1829.jpg   
+image: /img_1830.jpg   
+ 
+image: /img_2672.jpg   
+image: /img_2677.jpg   
+image: /img_2678.jpg   
+image: /img_2679.jpg   
+image: /img_2680.jpg   
+image: /img_2681.jpg   
+image: /img_2682.jpg   
+ 
+image: /img 106.jpg   
+image: /img 107.jpg   
+image: /img 108.jpg   
+image: /img 109.jpg   
+image: /img 110.jpg   
+image: /img 111.jpg   
+image: /img 112.jpg   
+
+ Restaurant:  Bruggers Bagels 
+Food:  Cinnamon Raisin Bagel 
+Calories:  320  
+  
+image: /img_3400.jpg   
+image: /img_3402.jpg   
+image: /img_3403.jpg   
+image: /img_3404.jpg   
+image: /img_3405.jpg   
+image: /img_3406.jpg   
+image: /img_3407.jpg   
+ 
+image: /img 043.jpg   
+image: /img 045.jpg   
+image: /img 046.jpg   
+image: /img 047.jpg   
+image: /img 048.jpg   
+image: /img 049.jpg   
+image: /img 050.jpg   
+ 
+image: /img 052.jpg   
+image: /img 053.jpg   
+image: /img 054.jpg   
+image: /img 055.jpg   
+image: /img 056.jpg   
+image: /img 057.jpg   
+image: /img 058.jpg   
+
+Restaurant:  Bruggers Bagels
+Food:  Drink 
+Calories:  150  
+  
+image: /img 035.jpg   
+image: /img 036.jpg   
+image: /img 037.jpg   
+image: /img 038.jpg   
+image: /img 039.jpg   
+image: /img 040.jpg   
+image: /img 041.jpg   
+ 
+image: /img 027.jpg   
+image: /img 028.jpg   
+image: /img 029.jpg   
+image: /img 030.jpg   
+image: /img 031.jpg   
+image: /img 032.jpg   
+image: /img 033.jpg   
+
+Restaurant:  Bruggers Bagels
+Food:  Jalapeno Cheese Bagel 
+Calories:  430   
+ 
+image: /img 134.jpg   
+image: /img 136.jpg   
+image: /img 137.jpg   
+image: /img 138.jpg   
+image: /img 139.jpg   
+image: /img 140.jpg   
+image: /img 141.jpg   
+ 
+image: /img 143.jpg   
+image: /img 144.jpg   
+image: /img 145.jpg   
+image: /img 146.jpg   
+image: /img 147.jpg   
+image: /img 148.jpg   
+image: /img 149.jpg   
+ 
+image: /img 151.jpg   
+image: /img 152.jpg   
+image: /img 153.jpg   
+image: /img 154.jpg   
+image: /img 155.jpg   
+image: /img 156.jpg   
+image: /img 157.jpg   
+
+Restaurant:  Bruggers Bagels
+Food:  Plain Bagel 
+Calories:  320  
+ 
+image: /img_3355.jpg   
+image: /img_3357.jpg   
+image: /img_3358.jpg   
+image: /img_3359.jpg   
+image: /img_3360.jpg   
+image: /img_3361.jpg   
+image: /img_3362.jpg   
+ 
+image: /img 060.jpg   
+image: /img 062.jpg   
+image: /img 063.jpg   
+image: /img 064.jpg   
+image: /img 065.jpg   
+image: /img 066.jpg   
+image: /img 067.jpg   
+ 
+image: /img 069.jpg   
+image: /img 070.jpg   
+image: /img 071.jpg   
+image: /img 072.jpg   
+image: /img 073.jpg   
+image: /img 074.jpg   
+image: /img 075.jpg   
+ 
+image: /img_3670.jpg   
+image: /img_3671.jpg   
+image: /img_3672.jpg   
+image: /img_3673.jpg   
+image: /img_3674.jpg   
+image: /img_3675.jpg   
+image: /img_3684.jpg   
+
+Restaurant:  Bruggers Bagels
+Food:  Poppy Seed Bagel 
+Calories:  320  
+ 
+ 
+image: /img_3391.jpg   
+image: /img_3393.jpg   
+image: /img_3394.jpg   
+image: /img_3395.jpg   
+image: /img_3396.jpg   
+image: /img_3397.jpg   
+image: /img_3398.jpg   
+ 
+image: /img 077.jpg   
+image: /img 079.jpg   
+image: /img 080.jpg   
+image: /img 081.jpg   
+image: /img 082.jpg   
+image: /img 083.jpg   
+image: /img 084.jpg   
+ 
+image: /img 086.jpg   
+image: /img 087.jpg   
+image: /img 088.jpg   
+image: /img 089.jpg   
+image: /img 090.jpg   
+image: /img 091.jpg   
+image: /img_093.jpg   
+ 
+image: /img_3662.jpg   
+image: /img_3663.jpg   
+image: /img_3664.jpg   
+image: /img_3665.jpg   
+image: /img_3667.jpg   
+image: /img_3668.jpg   
+image: /img_3684.jpg   
+
+Restaurant:  Bruggers Bagels
+Food:  Pumpernickel Bagel 
+Calories:  330   
+ 
+image: /img_3373.jpg   
+image: /img_3375.jpg   
+image: /img_3376.jpg   
+image: /img_3377.jpg   
+image: /img_3378.jpg   
+image: /img_3379.jpg   
+image: /img_3380.jpg   
+ 
+image: /img 093.jpg   
+image: /img 095.jpg   
+image: /img 096.jpg   
+image: /img 097.jpg   
+image: /img 098.jpg   
+image: /img 099.jpg   
+image: /img 100.jpg   
+ 
+image: /img 102.jpg   
+image: /img 103.jpg   
+image: /img 104.jpg   
+image: /img 105.jpg   
+image: /img 106.jpg   
+image: /img 107.jpg   
+image: /img_109.jpg
+
+Restaurant:  Bruggers Bagels
+Food:  Sesame Bagel 
+Calories:  360  
+ 
+image: /img_3364.jpg   
+image: /img_3366.jpg   
+image: /img_3367.jpg   
+image: /img_3368.jpg   
+image: /img_3369.jpg   
+image: /img_3370.jpg   
+image: /img_3371.jpg   
+ 
+image: /img 109.jpg   
+image: /img 111.jpg   
+image: /img 112.jpg   
+image: /img 113.jpg   
+image: /img 114.jpg   
+image: /img 115.jpg   
+image: /img 116.jpg   
+ 
+image: /img 118.jpg   
+image: /img 119.jpg   
+image: /img 120.jpg   
+image: /img 121.jpg   
+image: /img 122.jpg   
+image: /img 123.jpg   
+image: /img_125.jpg   
+ 
+image: /img_3655.jpg   
+image: /img_3656.jpg   
+image: /img_3657.jpg   
+image: /img_3658.jpg   
+image: /img_3659.jpg   
+image: /img_3660.jpg   
+image: /img_3684.jpg   
+
+Restaurant:  Bruggers Bagels
+Food:  Sesame Square Bagel 
+Calories:  360  
+  
+image: /img 159.jpg   
+image: /img 161.jpg   
+image: /img 162.jpg   
+image: /img 163.jpg   
+image: /img 164.jpg   
+image: /img 165.jpg   
+image: /img 166.jpg   
+ 
+image: /img 168.jpg   
+image: /img 169.jpg   
+image: /img 170.jpg   
+image: /img 171.jpg   
+image: /img 172.jpg   
+image: /img 173.jpg   
+image: /img 174.jpg   
+ 
+image: /img 176.jpg   
+image: /img 177.jpg   
+image: /img 178.jpg   
+image: /img 179.jpg   
+image: /img 180.jpg   
+image: /img 181.jpg   
+image: /img 182.jpg   
+
+Restaurant:  Bruggers Bagels 
+Food:  Whole Wheat Square Bagel 
+Calories:  390  
+ 
+image: /img_3382.jpg   
+image: /img_3384.jpg   
+image: /img_3385.jpg   
+image: /img_3386.jpg   
+image: /img_3387.jpg   
+image: /img_3388.jpg   
+image: /img_3389.jpg   
+ 
+image: /img 125.jpg   
+image: /img 127.jpg   
+image: /img 128.jpg   
+image: /img 129.jpg   
+image: /img 130.jpg   
+image: /img 131.jpg   
+image: /img 132.jpg   
+ 
+image: /IMG_5259.jpg   
+image: /IMG_5260.jpg   
+image: /IMG_5261.jpg   
+image: /IMG_5262.jpg   
+image: /IMG_5263.jpg   
+image: /IMG_5264.jpg   
+image: /IMG_5265.jpg   
+ 
+image: /img_3677.jpg   
+image: /img_3678.jpg   
+image: /img_3679.jpg   
+image: /img_3680.jpg   
+image: /img_3681.jpg   
+image: /img_3682.jpg   
+image: /img_3684.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Bavarian Kreme Donut 
+Calories:  250  
+ 
+image: /img_3319.jpg   
+image: /img_3321.jpg   
+image: /img_3322.jpg   
+image: /img_3323.jpg   
+image: /img_3324.jpg   
+image: /img_3325.jpg   
+image: /img_3326.jpg   
+ 
+image: /img 001.jpg   
+image: /img 003.jpg   
+image: /img 004.jpg   
+image: /img 005.jpg   
+image: /img 006.jpg   
+image: /img 007.jpg   
+image: /img 008.jpg   
+ 
+image: /img 010.jpg   
+image: /img 011.jpg   
+image: /img 012.jpg   
+image: /img 013.jpg   
+image: /img 014.jpg   
+image: /img 015.jpg   
+image: /img 016.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Boston Kreme Donut 
+Calories:  270  
+ 
+image: /img_3310.jpg   
+image: /img_3312.jpg   
+image: /img_3313.jpg   
+image: /img_3314.jpg   
+image: /img_3315.jpg   
+image: /img_3316.jpg   
+image: /img_3317.jpg   
+ 
+image: /img 018.jpg   
+image: /img 020.jpg   
+image: /img 021.jpg   
+image: /img 022.jpg   
+image: /img 023.jpg   
+image: /img 024.jpg   
+image: /img 025.jpg   
+ 
+image: /img 027.jpg   
+image: /img 028.jpg   
+image: /img 029.jpg   
+image: /img 030.jpg   
+image: /img 031.jpg   
+image: /img 032.jpg   
+image: /img 033.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Butternut Donut 
+Calories:  403  
+  
+image: /img_3265.jpg   
+image: /img_3267.jpg   
+image: /img_3268.jpg   
+image: /img_3269.jpg   
+image: /img_3270.jpg   
+image: /img_3271.jpg   
+image: /img_3272.jpg   
+ 
+image: /img 035.jpg   
+image: /img 037.jpg   
+image: /img 038.jpg   
+image: /img 039.jpg   
+image: /img 040.jpg   
+image: /img 041.jpg   
+image: /img 042.jpg   
+ 
+image: /img 044.jpg   
+image: /img 045.jpg   
+image: /img 046.jpg   
+image: /img 047.jpg   
+image: /img 048.jpg   
+image: /img 049.jpg   
+image: /img 050.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Chocolate Frosted Donut 
+Calories:  230  
+  
+image: /img_3337.jpg   
+image: /img_3339.jpg   
+image: /img_3340.jpg   
+image: /img_3341.jpg   
+image: /img_3342.jpg   
+image: /img_3343.jpg   
+image: /img_3344.jpg   
+ 
+image: /img 052.jpg   
+image: /img 054.jpg   
+image: /img 055.jpg   
+image: /img 056.jpg   
+image: /img 057.jpg   
+image: /img 058.jpg   
+image: /img 059.jpg   
+ 
+image: /img 061.jpg   
+image: /img 062.jpg   
+image: /img 063.jpg   
+image: /img 064.jpg   
+image: /img 065.jpg   
+image: /img 066.jpg   
+image: /img 067.jpg   
+ 
+image: /img_3620.jpg   
+image: /img_3621.jpg   
+image: /img_3622.jpg   
+image: /img_3623.jpg   
+image: /img_3624.jpg   
+image: /img_3625.jpg   
+image: /img_3626.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Cinnamon Cake Donut 
+Calories:  310  
+  
+image: /img_3240.jpg   
+image: /img_3241.jpg   
+image: /img_3242.jpg   
+image: /img_3243.jpg   
+image: /img_3244.jpg   
+image: /img_3245.jpg   
+image: /img_3246.jpg   
+ 
+image: /img 069.jpg   
+image: /img 071.jpg   
+image: /img 072.jpg   
+image: /img 073.jpg   
+image: /img 074.jpg   
+image: /img 075.jpg   
+image: /img 076.jpg   
+ 
+image: /img 078.jpg   
+image: /img 079.jpg   
+image: /img 080.jpg   
+image: /img 081.jpg   
+image: /img 082.jpg   
+image: /img 083.jpg   
+image: /img 084.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Double Chocolate Cake Donut 
+Calories:  340   
+ 
+image: /img_3230.jpg   
+image: /img_3231.jpg   
+image: /img_3232.jpg   
+image: /img_3233.jpg   
+image: /img_3234.jpg   
+image: /img_3235.jpg   
+image: /img_3237.jpg   
+ 
+image: /img 086.jpg   
+image: /img 088.jpg   
+image: /img 089.jpg   
+image: /img 090.jpg   
+image: /img 091.jpg   
+image: /img 092.jpg   
+image: /img 093.jpg   
+ 
+image: /img 095.jpg   
+image: /img 096.jpg   
+image: /img 097.jpg   
+image: /img 098.jpg   
+image: /img 099.jpg   
+image: /img 100.jpg   
+image: /img 101.jpg   
+
+Restaurant:  Dunkin Donuts 
+Food:  Glazed Donut 
+Calories:  230  
+  
+image: /img_3240.jpg   
+image: /img_3249.jpg   
+image: /img_3250.jpg   
+image: /img_3251.jpg   
+image: /img_3252.jpg   
+image: /img_3253.jpg   
+image: /img_3254.jpg   
+ 
+image: /img 020.jpg   
+image: /img 022.jpg   
+image: /img 023.jpg   
+image: /img 024.jpg   
+image: /img 025.jpg   
+image: /img 026.jpg   
+image: /img 027.jpg   
+ 
+image: /img 029.jpg   
+image: /img 030.jpg   
+image: /img 031.jpg   
+image: /img 032.jpg   
+image: /img 033.jpg   
+image: /img 034.jpg   
+image: /img 035.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Jelly Filled Donut 
+Calories:  270  
+  
+image: /img_3328.jpg   
+image: /img_3330.jpg   
+image: /img_3331.jpg   
+image: /img_3332.jpg   
+image: /img_3333.jpg   
+image: /img_3334.jpg   
+image: /img_3335.jpg   
+ 
+image: /img 037.jpg   
+image: /img 039.jpg   
+image: /img 040.jpg   
+image: /img 041.jpg   
+image: /img 042.jpg   
+image: /img 043.jpg   
+image: /img 044.jpg   
+ 
+image: /img 046.jpg   
+image: /img 047.jpg   
+image: /img 048.jpg   
+image: /img 049.jpg   
+image: /img 050.jpg   
+image: /img 051.jpg   
+image: /img 052.jpg   
+ 
+image: /img_3620.jpg   
+image: /img_3629.jpg   
+image: /img_3631.jpg   
+image: /img_3632.jpg   
+image: /img_3633.jpg   
+image: /img_3634.jpg   
+image: /img_3635.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Marble Frosted Donut 
+Calories:  240  
+  
+image: /img_3283.jpg   
+image: /img_3285.jpg   
+image: /img_3286.jpg   
+image: /img_3287.jpg   
+image: /img_3288.jpg   
+image: /img_3289.jpg   
+image: /img_3290.jpg   
+ 
+image: /img 088.jpg   
+image: /img 090.jpg   
+image: /img 091.jpg   
+image: /img 092.jpg   
+image: /img 093.jpg   
+image: /img 094.jpg   
+image: /img 095.jpg   
+ 
+image: /img 097.jpg   
+image: /img 098.jpg   
+image: /img 099.jpg   
+image: /img 100.jpg   
+image: /img 101.jpg   
+image: /img 102.jpg   
+image: /img 103.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Old Fashioned Cake Donut 
+Calories:  280  
+  
+image: /img_3346.jpg   
+image: /img_3348.jpg   
+image: /img_3349.jpg   
+image: /img_3350.jpg   
+image: /img_3351.jpg   
+image: /img_3352.jpg   
+image: /img_3353.jpg   
+ 
+image: /img 105.jpg   
+image: /img 107.jpg   
+image: /img 108.jpg   
+image: /img 109.jpg   
+image: /img 110.jpg   
+image: /img 111.jpg   
+image: /img 112.jpg   
+ 
+image: /img 002.jpg   
+image: /img 003.jpg   
+image: /img 004.jpg   
+image: /img 005.jpg   
+image: /img 006.jpg   
+image: /img 007.jpg   
+image: /img 008.jpg   
+ 
+image: /img_3613.jpg   
+image: /img_3614.jpg   
+image: /img_3615.jpg   
+image: /img_3616.jpg   
+image: /img_3617.jpg   
+image: /img_3618.jpg   
+image: /img_3620.jpg   
+
+
+Restaurant:  Dunkin Donuts
+Food:  Special Frosted Donut 
+Calories:  N/A  
+ 
+ 
+image: /img_3274.jpg   
+image: /img_3276.jpg   
+image: /img_3277.jpg   
+image: /img_3278.jpg   
+image: /img_3279.jpg   
+image: /img_3280.jpg   
+image: /img_3281.jpg   
+ 
+image: /img 054.jpg   
+image: /img 056.jpg   
+image: /img 057.jpg   
+image: /img 058.jpg   
+image: /img 059.jpg   
+image: /img 060.jpg   
+image: /img 061.jpg   
+ 
+image: /img 063.jpg   
+image: /img 064.jpg   
+image: /img 065.jpg   
+image: /img 066.jpg   
+image: /img 067.jpg   
+image: /img 068.jpg   
+image: /img 069.jpg   
+ 
+image: /img_3604.jpg   
+image: /img_3605.jpg   
+image: /img_3606.jpg   
+image: /img_3607.jpg   
+image: /img_3608.jpg   
+image: /img_3609.jpg   
+image: /img_3620.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Special Pittsburgh Kreme Donut 
+Calories:  N/A   
+ 
+image: /img_3292.jpg   
+image: /img_3294.jpg   
+image: /img_3295.jpg   
+image: /img_3296.jpg   
+image: /img_3297.jpg   
+image: /img_3298.jpg   
+image: /img_3299.jpg   
+ 
+image: /img 071.jpg   
+image: /img 073.jpg   
+image: /img 074.jpg   
+image: /img 075.jpg   
+image: /img 076.jpg   
+image: /img 077.jpg   
+image: /img 078.jpg   
+ 
+image: /img 080.jpg   
+image: /img 081.jpg   
+image: /img 082.jpg   
+image: /img 083.jpg   
+image: /img 084.jpg   
+image: /img 085.jpg   
+image: /img 086.jpg   
+
+Restaurant:  Dunkin Donuts
+Food:  Sugar Raised Donut 
+Calories:  210  
+  
+image: /img_3301.jpg   
+image: /img_3303.jpg   
+image: /img_3304.jpg   
+image: /img_3305.jpg   
+image: /img_3306.jpg   
+image: /img_3307.jpg   
+image: /img_3308.jpg   
+ 
+image: /img 001.jpg   
+image: /img 003.jpg   
+image: /img 004.jpg   
+image: /img 005.jpg   
+image: /img 006.jpg   
+image: /img 007.jpg   
+image: /img 008.jpg   
+ 
+image: /img 012.jpg   
+image: /img 013.jpg   
+image: /img 014.jpg   
+image: /img 015.jpg   
+image: /img 016.jpg   
+image: /img 017.jpg   
+image: /img 018.jpg   
+
+Resturant: Giant Eagle
+Food:  Chocolate Chip Classic Muffin 
+Calories:  270  
+  
+image: /IMG_5393.jpg   
+image: /IMG_5394.jpg   
+image: /IMG_5395.jpg   
+image: /IMG_5396.jpg   
+image: /IMG_5397.jpg   
+image: /IMG_5398.jpg   
+image: /IMG_5399.jpg   
+ 
+image: /IMG_5401.jpg   
+image: /IMG_5402.jpg   
+image: /IMG_5403.jpg   
+image: /IMG_5404.jpg   
+image: /IMG_5405.jpg   
+image: /IMG_5406.jpg   
+image: /IMG_5407.jpg   
+ 
+image: /IMG_5409.jpg   
+image: /IMG_5410.jpg   
+image: /IMG_5411.jpg   
+image: /IMG_5412.jpg   
+image: /IMG_5413.jpg   
+image: /IMG_5414.jpg   
+image: /IMG_5415.jpg   
+
+Resturant: KFC
+Food:  Apple Pie Minis 
+Calories:  130   
+ 
+image: /img_0963.jpg   
+image: /img_0964.jpg   
+image: /img_0965.jpg   
+image: /img_0966.jpg   
+image: /img_0967.jpg   
+image: /img_0968.jpg   
+image: /img_0969.jpg   
+ 
+image: /img_2441.jpg   
+image: /img_2442.jpg   
+image: /img_2443.jpg   
+image: /img_2444.jpg   
+image: /img_2445.jpg   
+image: /img_2446.jpg   
+image: /img_2447.jpg   
+ 
+image: /img 009.jpg   
+image: /img 011.jpg   
+image: /img 012.jpg   
+image: /img 013.jpg   
+image: /img 014.jpg   
+image: /img 015.jpg   
+image: /img 016.jpg   
+
+Resturant: KFC
+Food:  Chicken Pot Pie 
+Calories:  690  
+  
+image: /img 018.jpg   
+image: /img 020.jpg   
+image: /img 021.jpg   
+image: /img 022.jpg   
+image: /img 023.jpg   
+image: /img 024.jpg   
+image: /img 025.jpg   
+ 
+image: /img_1946.jpg   
+image: /img_1947.jpg   
+image: /img_1948.jpg   
+image: /img_1949.jpg   
+image: /img_1950.jpg   
+image: /img_1951.jpg   
+image: /img_1952.jpg   
+ 
+image: /img_2417.jpg   
+image: /img_2418.jpg   
+image: /img_2419.jpg   
+image: /img_2420.jpg   
+image: /img_2421.jpg   
+image: /img_2422.jpg   
+image: /img_2423.jpg   
+
+Resturant: KFC
+Food:  Crispy Chicken Breasts 
+Calories:  460  
+  
+image: /img_0907.jpg   
+image: /img_0908.jpg   
+image: /img_0909.jpg   
+image: /img_0910.jpg   
+image: /img_0911.jpg   
+image: /img_0912.jpg   
+image: /img_0913.jpg   
+ 
+image: /img_1929.jpg   
+image: /img_1930.jpg   
+image: /img_1931.jpg   
+image: /img_1932.jpg   
+image: /img_1933.jpg   
+image: /img_1934.jpg   
+image: /img_1935.jpg   
+ 
+image: /img_2449.jpg   
+image: /img_2450.jpg   
+image: /img_2451.jpg   
+image: /img_2452.jpg   
+image: /img_2453.jpg   
+image: /img_2454.jpg   
+image: /img_2455.jpg   
+
+Resturant: KFC
+Food:  Crispy Chicken Thighs 
+Calories:  360  
+  
+image: /img_0915.jpg   
+image: /img_0916.jpg   
+image: /img_0917.jpg   
+image: /img_0918.jpg   
+image: /img_0919.jpg   
+image: /img_0920.jpg   
+image: /img_0921.jpg   
+ 
+image: /img_1917.jpg   
+image: /img_1922.jpg   
+image: /img_1923.jpg   
+image: /img_1924.jpg   
+image: /img_1925.jpg   
+image: /img_1926.jpg   
+image: /img_1927.jpg   
+ 
+image: /img_2425.jpg   
+image: /img_2426.jpg   
+image: /img_2427.jpg   
+image: /img_2428.jpg   
+image: /img_2429.jpg   
+image: /img_2430.jpg   
+image: /img_2431.jpg   
+
+Resturant: KFC
+Food:  Crispy Whole Chicken Wing 
+Calories:  160  
+  
+image: /img_0924.jpg   
+image: /img_0925.jpg   
+image: /img_0926.jpg   
+image: /img_0927.jpg   
+image: /img_0928.jpg   
+image: /img_0929.jpg   
+image: /img_0930.jpg   
+ 
+image: /img_1963.jpg   
+image: /img_1964.jpg   
+image: /img_1965.jpg   
+image: /img_1966.jpg   
+image: /img_1967.jpg   
+image: /img_1968.jpg   
+image: /img_1969.jpg   
+ 
+image: /img_2433.jpg   
+image: /img_2434.jpg   
+image: /img_2435.jpg   
+image: /img_2436.jpg   
+image: /img_2437.jpg   
+image: /img_2438.jpg   
+image: /img_2439.jpg   
+Resturant: KFC
+Food:  Drink 
+Calories:  180  
+ 
+image: /img 001.jpg   
+image: /img 002.jpg   
+image: /img 003.jpg   
+image: /img 004.jpg   
+image: /img 005.jpg   
+image: /img 006.jpg   
+image: /img 007.jpg   
+ 
+image: /img_0947.jpg   
+image: /img_0948.jpg   
+image: /img_0949.jpg   
+image: /img_0950.jpg   
+image: /img_0951.jpg   
+image: /img_0952.jpg   
+
+Resturant: KFC
+Food:  Home-Style Biscuits 
+Calories:  180  
+  
+image: /img_0937.jpg   
+image: /img_0938.jpg   
+image: /img_0939.jpg   
+image: /img_0940.jpg   
+image: /img_0941.jpg   
+image: /img_0942.jpg   
+image: /img_0943.jpg   
+ 
+image: /img 153.jpg   
+image: /img 155.jpg   
+image: /img 156.jpg   
+image: /img 157.jpg   
+image: /img 158.jpg   
+image: /img 159.jpg   
+image: /img 160.jpg   
+ 
+image: /img 162.jpg   
+image: /img 163.jpg   
+image: /img 164.jpg   
+image: /img 165.jpg   
+image: /img 166.jpg   
+image: /img 167.jpg   
+image: /img 168.jpg   
+
+Resturant: KFC
+Food:  Honey BBQ Chicken Sandwich 
+Calories:  300  
+  
+image: /img_0888.jpg   
+image: /img_0892.jpg   
+image: /img_0893.jpg   
+image: /img_0894.jpg   
+image: /img_0895.jpg   
+image: /img_0896.jpg   
+image: /img_0897.jpg   
+ 
+image: /img_1929.jpg   
+image: /img_1939.jpg   
+image: /img_1940.jpg   
+image: /img_1941.jpg   
+image: /img_1942.jpg   
+image: /img_1943.jpg   
+image: /img_1944.jpg   
+ 
+image: /img_2406.jpg   
+image: /img_2408.jpg   
+image: /img_2409.jpg   
+image: /img_2410.jpg   
+image: /img_2411.jpg   
+image: /img_2412.jpg   
+image: /img_2413.jpg   
+
+Resturant: KFC
+Food:  Honey BBQ Wings 
+Calories:  80  
+ 
+image: /img_0954.jpg   
+image: /img_0955.jpg   
+image: /img_0956.jpg   
+image: /img_0957.jpg   
+image: /img_0958.jpg   
+image: /img_0959.jpg   
+image: /img_0960.jpg   
+ 
+image: /img 170.jpg   
+image: /img 172.jpg   
+image: /img 173.jpg   
+image: /img 174.jpg   
+image: /img 175.jpg   
+image: /img 176.jpg   
+image: /img 177.jpg   
+ 
+image: /img 179.jpg   
+image: /img 180.jpg   
+image: /img 181.jpg   
+image: /img 182.jpg   
+image: /img 183.jpg   
+image: /img 184.jpg   
+image: /img 185.jpg   
+
+Resturant: KFC
+Food:  KFC Snacker Sandwich 
+Calories:  210  
+  
+image: /img_0879.jpg   
+image: /img_0880.jpg   
+image: /img_0881.jpg   
+image: /img_0882.jpg   
+image: /img_0883.jpg   
+image: /img_0884.jpg   
+image: /img_0885.jpg   
+ 
+image: /img_1955.jpg   
+image: /img_1956.jpg   
+image: /img_1957.jpg   
+image: /img_1958.jpg   
+image: /img_1959.jpg   
+image: /img_1960.jpg   
+image: /img_1961.jpg   
+ 
+image: /img_2397.jpg   
+image: /img_2398.jpg   
+image: /img_2399.jpg   
+image: /img_2400.jpg   
+image: /img_2401.jpg   
+image: /img_2402.jpg   
+image: /img_2403.jpg   
+image: /img_2404.jpg   
+
+Resturant: KFC
+Food:  Sweet Kernel Corn 
+Calories:  110  
+  
+image: /IMG_5434.jpg   
+image: /IMG_5435.jpg   
+image: /IMG_5436.jpg   
+image: /IMG_5437.jpg   
+image: /IMG_5438.jpg   
+image: /IMG_5439.jpg   
+image: /IMG_5440.jpg   
+ 
+image: /img 027.jpg   
+image: /img 029.jpg   
+image: /img 030.jpg   
+image: /img 031.jpg   
+image: /img 032.jpg   
+image: /img 033.jpg   
+image: /img 034.jpg   
+ 
+image: /img 036.jpg   
+image: /img 037.jpg   
+image: /img 038.jpg   
+image: /img 039.jpg   
+image: /img 040.jpg   
+image: /img 041.jpg   
+image: /img 042.jpg   
+
+Resturant: Krispy Kreme Doughnuts
+Food:  Chocolate Iced Kreme Filled Doughnut 
+Calories:  350  
+  
+image: /IMG_5226.jpg   
+image: /IMG_5227.jpg   
+image: /IMG_5228.jpg   
+image: /IMG_5229.jpg   
+image: /IMG_5230.jpg   
+image: /IMG_5231.jpg   
+image: /IMG_5232.jpg   
+ 
+image: /IMG_5234.jpg   
+image: /IMG_5235.jpg   
+image: /IMG_5236.jpg   
+image: /IMG_5237.jpg   
+image: /IMG_5238.jpg   
+image: /IMG_5239.jpg   
+image: /IMG_5240.jpg   
+ 
+image: /IMG_5251.jpg   
+image: /IMG_5252.jpg   
+image: /IMG_5253.jpg   
+image: /IMG_5254.jpg   
+image: /IMG_5255.jpg   
+image: /IMG_5256.jpg   
+image: /IMG_5257.jpg   
+
+Resturant: Krispy Kreme Doughnuts
+Food:  Glazed Chocolate Cake Doughnut 
+Calories:  300   
+ 
+image: /IMG_5202.jpg   
+image: /IMG_5203.jpg   
+image: /IMG_5204.jpg   
+image: /IMG_5205.jpg   
+image: /IMG_5206.jpg   
+image: /IMG_5207.jpg   
+image: /IMG_5208.jpg   
+ 
+image: /IMG_5218.jpg   
+image: /IMG_5219.jpg   
+image: /IMG_5220.jpg   
+image: /IMG_5221.jpg   
+image: /IMG_5222.jpg   
+image: /IMG_5223.jpg   
+image: /IMG_5224.jpg   
+ 
+image: /IMG_5242.jpg   
+image: /IMG_5243.jpg   
+image: /IMG_5244.jpg   
+image: /IMG_5245.jpg   
+image: /IMG_5246.jpg   
+image: /IMG_5247.jpg   
+image: /IMG_5248.jpg   
+
+Resturant: Krispy Kreme Doughnuts
+Food:  Granola Bar 
+Calories:  180  
+ 
+image: /IMG_5300.jpg   
+image: /IMG_5301.jpg   
+image: /IMG_5302.jpg   
+image: /IMG_5303.jpg   
+image: /IMG_5304.jpg   
+image: /IMG_5305.jpg   
+image: /IMG_5306.jpg   
+ 
+image: /IMG_5309.jpg   
+image: /IMG_5310.jpg   
+image: /IMG_5311.jpg   
+image: /IMG_5312.jpg   
+image: /IMG_5313.jpg   
+image: /IMG_5314.jpg   
+image: /IMG_5315.jpg   
+ 
+image: /IMG_5317.jpg   
+image: /IMG_5318.jpg   
+image: /IMG_5319.jpg   
+image: /IMG_5320.jpg   
+image: /IMG_5321.jpg   
+image: /IMG_5322.jpg   
+image: /IMG_5323.jpg   
+ 
+image: /IMG_5326.jpg   
+image: /IMG_5327.jpg   
+image: /IMG_5328.jpg   
+image: /IMG_5329.jpg   
+image: /IMG_5330.jpg   
+image: /IMG_5331.jpg   
+image: /IMG_5332.jpg   
+ 
+image: /IMG_5342.jpg   
+image: /IMG_5343.jpg   
+image: /IMG_5344.jpg   
+image: /IMG_5345.jpg   
+image: /IMG_5346.jpg   
+image: /IMG_5347.jpg   
+image: /IMG_5348.jpg   
+
+Resturant: Krispy Kreme Doughnuts
+Food:  Twinkie 
+Calories:  150  
+  
+image: /IMG_5275.jpg   
+image: /IMG_5276.jpg   
+image: /IMG_5277.jpg   
+image: /IMG_5278.jpg   
+image: /IMG_5279.jpg   
+image: /IMG_5280.jpg   
+image: /IMG_5281.jpg   
+ 
+image: /IMG_5283.jpg   
+image: /IMG_5284.jpg   
+image: /IMG_5285.jpg   
+image: /IMG_5286.jpg   
+image: /IMG_5287.jpg   
+image: /IMG_5288.jpg   
+image: /IMG_5289.jpg   
+ 
+image: /IMG_5292.jpg   
+image: /IMG_5293.jpg   
+image: /IMG_5294.jpg   
+image: /IMG_5295.jpg   
+image: /IMG_5296.jpg   
+image: /IMG_5297.jpg   
+
+Resturant: McDonalds
+Food:  Big Mac 
+Calories:  540  
+  
+image: /img_3728.jpg   
+image: /img_3729.jpg   
+image: /img_3730.jpg   
+image: /img_3731.jpg   
+image: /img_3732.jpg   
+image: /img_3733.jpg   
+image: /img_3734.jpg   
+ 
+image: /img_3428.jpg   
+image: /img_3430.jpg   
+image: /img_3431.jpg   
+image: /img_3432.jpg   
+image: /img_3433.jpg   
+image: /img_3434.jpg   
+image: /img_3435.jpg   
+ 
+image: /img 001.jpg   
+image: /img 003.jpg   
+image: /img 004.jpg   
+image: /img 005.jpg   
+image: /img 006.jpg   
+image: /img 007.jpg   
+image: /img 008.jpg   
+ 
+image: /img_1784.jpg   
+image: /img_1785.jpg   
+image: /img_1786.jpg   
+image: /img_1787.jpg   
+image: /img_1788.jpg   
+image: /img_1789.jpg   
+
+Resturant: McDonalds
+Food:  Big n Tasty 
+Calories:  510  
+ 
+image: /img_1776.jpg   
+image: /img_1777.jpg   
+image: /img_1778.jpg   
+image: /img_1779.jpg   
+image: /img_1780.jpg   
+image: /img_1781.jpg   
+image: /img_1782.jpg   
+ 
+image: /img_3437.jpg   
+image: /img_3438.jpg   
+image: /img_3439.jpg   
+image: /img_3440.jpg   
+image: /img_3441.jpg   
+image: /img_3442.jpg   
+image: /img_3443.jpg   
+ 
+image: /img_3703.jpg   
+image: /img_3712.jpg   
+image: /img_3713.jpg   
+image: /img_3714.jpg   
+image: /img_3715.jpg   
+image: /img_3716.jpg   
+image: /img_3717.jpg   
+
+Resturant: McDonalds
+Food:  Chicken McNuggets 
+Calories:  170  
+ 
+image: /img 035.jpg   
+image: /img 037.jpg   
+image: /img 038.jpg   
+image: /img 039.jpg   
+image: /img 040.jpg   
+image: /img 041.jpg   
+image: /img 042.jpg   
+ 
+image: /img 044.jpg   
+image: /img 045.jpg   
+image: /img 046.jpg   
+image: /img 047.jpg   
+image: /img 048.jpg   
+image: /img 049.jpg   
+image: /img 050.jpg   
+ 
+image: /img 052.jpg   
+image: /img 053.jpg   
+image: /img 054.jpg   
+image: /img 055.jpg   
+image: /img 056.jpg   
+image: /img 057.jpg   
+image: /img 058.jpg   
+ 
+image: /img_1714.jpg   
+image: /img_1715.jpg   
+image: /img_1716.jpg   
+image: /img_1717.jpg   
+image: /img_1718.jpg   
+image: /img_1719.jpg   
+image: /img_1720.jpg   
+ 
+image: /img_1722.jpg   
+image: /img_1723.jpg   
+image: /img_1724.jpg   
+image: /img_1725.jpg   
+image: /img_1726.jpg   
+image: /img_1727.jpg   
+image: /img_1728.jpg   
+ 
+image: /img_1730.jpg   
+image: /img_1731.jpg   
+image: /img_1732.jpg   
+image: /img_1733.jpg   
+image: /img_1734.jpg   
+image: /img_1735.jpg   
+image: /img_1736.jpg   
+
+Resturant: McDonalds
+Food:  Chicken Selects Breast Strips 
+Calories:  133  
+ 
+ 
+image: /img 010.jpg   
+image: /img 012.jpg   
+image: /img 013.jpg   
+image: /img 014.jpg   
+image: /img 015.jpg   
+image: /img 016.jpg   
+image: /img 017.jpg   
+ 
+image: /img 019.jpg   
+image: /img 020.jpg   
+image: /img 021.jpg   
+image: /img 022.jpg   
+image: /img 023.jpg   
+image: /img 024.jpg   
+image: /img 025.jpg   
+ 
+image: /img 027.jpg   
+image: /img 028.jpg   
+image: /img 029.jpg   
+image: /img 030.jpg   
+image: /img 031.jpg   
+image: /img 032.jpg   
+image: /img 033.jpg   
+ 
+image: /img_1738.jpg   
+image: /img_1744.jpg   
+image: /img_1745.jpg   
+image: /img_1746.jpg   
+image: /img_1747.jpg   
+image: /img_1748.jpg   
+image: /img_1749.jpg   
+ 
+image: /img_1751.jpg   
+image: /img_1752.jpg   
+image: /img_1753.jpg   
+image: /img_1754.jpg   
+image: /img_1755.jpg   
+image: /img_1756.jpg   
+image: /img_1757.jpg   
+ 
+image: /img_1759.jpg   
+image: /img_1760.jpg   
+image: /img_1761.jpg   
+image: /img_1762.jpg   
+image: /img_1763.jpg   
+image: /img_1764.jpg   
+image: /img_1765.jpg   \
+
+Resturant: McDonalds
+Food:  Drink 
+Calories:  150  
+  
+image: /img_1791.jpg   
+image: /img_1792.jpg   
+image: /img_1793.jpg   
+image: /img_1794.jpg   
+image: /img_1795.jpg   
+image: /img_1796.jpg   
+image: /img_1797.jpg   
+
+Resturant: McDonalds
+Food:  Filet-O-Fish 
+Calories:  380  
+ 
+image: /img_1682.jpg   
+image: /img_1683.jpg   
+image: /img_1684.jpg   
+image: /img_1685.jpg   
+image: /img_1686.jpg   
+image: /img_1687.jpg   
+image: /img_1689.jpg   
+ 
+image: /img_3409.jpg   
+image: /img_3411.jpg   
+image: /img_3412.jpg   
+image: /img_3413.jpg   
+image: /img_3414.jpg   
+image: /img_3415.jpg   
+image: /img_3416.jpg   
+ 
+image: /img_3703.jpg   
+image: /img_3704.jpg   
+image: /img_3705.jpg   
+image: /img_3706.jpg   
+image: /img_3707.jpg   
+image: /img_3708.jpg   
+image: /img_3709.jpg   
+
+Resturant: McDonalds
+Food:  Grilled Chicken Club Sandwich 
+Calories:  590   
+ 
+image: /img_1705.jpg   
+image: /img_1706.jpg   
+image: /img_1707.jpg   
+image: /img_1708.jpg   
+image: /img_1709.jpg   
+image: /img_1710.jpg   
+image: /img_1711.jpg   
+ 
+image: /img_3466.jpg   
+image: /img_3467.jpg   
+image: /img_3468.jpg   
+image: /img_3469.jpg   
+image: /img_3470.jpg   
+image: /img_3471.jpg   
+image: /img_3472.jpg   
+ 
+image: /img_3696.jpg   
+image: /img_3697.jpg   
+image: /img_3698.jpg   
+image: /img_3699.jpg   
+image: /img_3700.jpg   
+image: /img_3701.jpg   
+image: /img_3703.jpg   
+
+Resturant: McDonalds
+Food:  Grilled Chicken Ranch BLT Sandwich 
+Calories:  580  
+
+image: /img_1768.jpg   
+image: /img_1769.jpg   
+image: /img_1770.jpg   
+image: /img_1771.jpg   
+image: /img_1772.jpg   
+image: /img_1773.jpg   
+image: /img_1774.jpg   
+ 
+image: /img_3456.jpg   
+image: /img_3457.jpg   
+image: /img_3458.jpg   
+image: /img_3459.jpg   
+image: /img_3460.jpg   
+image: /img_3461.jpg   
+image: /img_3462.jpg   
+ 
+image: /img_3703.jpg   
+image: /img_3720.jpg   
+image: /img_3721.jpg   
+image: /img_3722.jpg   
+image: /img_3723.jpg   
+image: /img_3724.jpg   
+image: /img_3725.jpg   
+
+
+Resturant: McDonalds
+Food:  Quarter Pounder with Cheese 
+Calories:  740  
+  
+image: /img_1697.jpg   
+image: /img_1698.jpg   
+image: /img_1699.jpg   
+image: /img_1700.jpg   
+image: /img_1701.jpg   
+image: /img_1702.jpg   
+image: /img_1703.jpg   
+ 
+image: /img_3418.jpg   
+image: /img_3420.jpg   
+image: /img_3421.jpg   
+image: /img_3422.jpg   
+image: /img_3423.jpg   
+image: /img_3424.jpg   
+image: /img_3425.jpg   
+ 
+image: /img_3737.jpg   
+image: /img_3738.jpg   
+image: /img_3739.jpg   
+image: /img_3740.jpg   
+image: /img_3741.jpg   
+image: /img_3742.jpg   
+image: /img_3743.jpg   
+
+Resturant: McDonalds
+Food:  Southern Style Crispy Chicken Sandwich 
+Calories:  400  
+ 
+image: /img_1689.jpg   
+image: /img_1690.jpg   
+image: /img_1691.jpg   
+image: /img_1692.jpg   
+image: /img_1693.jpg   
+image: /img_1694.jpg   
+image: /img_1695.jpg   
+ 
+image: /img_3447.jpg   
+image: /img_3448.jpg   
+image: /img_3449.jpg   
+image: /img_3450.jpg   
+image: /img_3451.jpg   
+image: /img_3452.jpg   
+image: /img_3453.jpg   
+ 
+image: /img_3685.jpg   
+image: /img_3687.jpg   
+image: /img_3688.jpg   
+image: /img_3689.jpg   
+image: /img_3690.jpg   
+image: /img_3691.jpg   
+image: /img_3692.jpg   
+
+Resturant: Panera
+Food:  Asian Sesame Chicken Salad 
+Calories:  410  
+ 
+image: /img_1035.jpg   
+image: /img_1036.jpg   
+image: /img_1037.jpg   
+image: /img_1038.jpg   
+image: /img_1039.jpg   
+image: /img_1040.jpg   
+image: /img_1041.jpg   
+ 
+image: /img 136.jpg   
+image: /img 138.jpg   
+image: /img 139.jpg   
+image: /img 140.jpg   
+image: /img 141.jpg   
+image: /img 142.jpg   
+image: /img 143.jpg   
+ 
+image: /img 145.jpg   
+image: /img 146.jpg   
+image: /img 147.jpg   
+image: /img 148.jpg   
+image: /img 149.jpg   
+image: /img 150.jpg   
+image: /img 151.jpg   
+ 
+image: /img_4166.jpg   
+image: /img_4175.jpg   
+image: /img_4176.jpg   
+image: /img_4177.jpg   
+image: /img_4178.jpg   
+image: /img_4179.jpg   
+image: /img_4180.jpg   
+ 
+image: /img_4166.jpg   
+image: /img_4183.jpg   
+image: /img_4184.jpg   
+image: /img_4185.jpg   
+image: /img_4186.jpg   
+image: /img_4187.jpg   
+image: /img_4188.jpg   
+
+Resturant: Panera
+Food:  Caesar Salad 
+Calories:  400  
+  
+image: /img 119.jpg   
+image: /img 120.jpg   
+image: /img 121.jpg   
+image: /img 122.jpg   
+image: /img 123.jpg   
+image: /img 124.jpg   
+image: /img 125.jpg   
+ 
+image: /img 128.jpg   
+image: /img 129.jpg   
+image: /img 130.jpg   
+image: /img 131.jpg   
+image: /img 132.jpg   
+image: /img 133.jpg   
+image: /img 134.jpg   
+ 
+image: /img_1044.jpg   
+image: /img_1045.jpg   
+image: /img_1046.jpg   
+image: /img_1047.jpg   
+image: /img_1048.jpg   
+image: /img_1049.jpg   
+image: /img_1050.jpg   
+ 
+image: /img_4166.jpg   
+image: /img_4190.jpg   
+image: /img_4191.jpg   
+image: /img_4192.jpg   
+image: /img_4193.jpg   
+image: /img_4194.jpg   
+image: /img_4195.jpg   
+ 
+image: /img_4166.jpg   
+image: /img_4197.jpg   
+image: /img_4198.jpg   
+image: /img_4199.jpg   
+image: /img_4200.jpg   
+image: /img_4201.jpg   
+image: /img_4202.jpg   
+ 
+Resturant: Panera
+Food:  Drink 
+Calories:  150  
+ 
+image: /img 053.jpg   
+image: /img 054.jpg   
+image: /img 055.jpg   
+image: /img 056.jpg   
+image: /img 057.jpg   
+image: /img 058.jpg   
+image: /img 059.jpg   
+
+Resturant: Panera
+Food:  Italian Combo Sandwich 
+Calories:  1070  
+ 
+image: /img_1027.jpg   
+image: /img_1028.jpg   
+image: /img_1029.jpg   
+image: /img_1030.jpg   
+image: /img_1031.jpg   
+image: /img_1032.jpg   
+image: /img_1033.jpg   
+ 
+image: /img_4166.jpg   
+image: /img_4167.jpg   
+image: /img_4168.jpg   
+image: /img_4169.jpg   
+image: /img_4170.jpg   
+image: /img_4171.jpg   
+image: /img_4172.jpg   
+ 
+image: /img 101.jpg   
+image: /img 103.jpg   
+image: /img 104.jpg   
+image: /img 105.jpg   
+image: /img 106.jpg   
+image: /img 107.jpg   
+image: /img 108.jpg   
+
+Resturant: Panera
+Food:  Mediterranean Veggie Sandwich 
+Calories:  610  
+ 
+image: /img_1052.jpg   
+image: /img_1053.jpg   
+image: /img_1054.jpg   
+image: /img_1055.jpg   
+image: /img_1056.jpg   
+image: /img_1057.jpg   
+image: /img_1058.jpg   
+ 
+image: /img_4211.jpg   
+image: /img_4212.jpg   
+image: /img_4213.jpg   
+image: /img_4214.jpg   
+image: /img_4215.jpg   
+image: /img_4216.jpg   
+image: /img_4218.jpg   
+ 
+image: /img_101.jpg   
+image: /img 112.jpg   
+image: /img 113.jpg   
+image: /img 114.jpg   
+image: /img 115.jpg   
+image: /img 116.jpg   
+image: /img 117.jpg   
+
+Resturant: Panera
+Food:  Sierra turkey 
+Calories:  1000  
+ 
+image: /img_4204.jpg   
+image: /img_4205.jpg   
+image: /img_4206.jpg   
+image: /img_4207.jpg   
+image: /img_4208.jpg   
+image: /img_4209.jpg   
+image: /img_4218.jpg   
+ 
+image: /img_4157.jpg   
+image: /img_4158.jpg   
+image: /img_4159.jpg   
+image: /img_4160.jpg   
+image: /img_4161.jpg   
+image: /img_4162.jpg   
+image: /img_4166.jpg   
+ 
+image: /img_078.jpg   
+image: /img 086.jpg   
+image: /img 087.jpg   
+image: /img 088.jpg   
+image: /img 089.jpg   
+image: /img 090.jpg   
+image: /img 091.jpg   
+ 
+image: /img 044.jpg   
+image: /img 046.jpg   
+image: /img 047.jpg   
+image: /img 048.jpg   
+image: /img 049.jpg   
+image: /img 050.jpg   
+image: /img 051.jpg   
+ 
+image: /img_1060.jpg   
+image: /img_1061.jpg   
+image: /img_1062.jpg   
+image: /img_1063.jpg   
+image: /img_1064.jpg   
+image: /img_1065.jpg   
+image: /img_1066.jpg   
+
+Resturant: Panera
+Food:  Smoked Turkey Breast Sandwich 
+Calories:  620  
+ 
+image: /img_4218.jpg   
+image: /img_4219.jpg   
+image: /img_4220.jpg   
+image: /img_4221.jpg   
+image: /img_4222.jpg   
+image: /img_4223.jpg   
+image: /img_4224.jpg   
+ 
+image: /img 069.jpg   
+image: /img 071.jpg   
+image: /img 072.jpg   
+image: /img 073.jpg   
+image: /img 074.jpg   
+image: /img 075.jpg   
+image: /img 076.jpg   
+ 
+image: /img 093.jpg   
+image: /img 094.jpg   
+image: /img 095.jpg   
+image: /img 096.jpg   
+image: /img 097.jpg   
+image: /img 098.jpg   
+image: /img 099.jpg   
+
+Resturant: Pizza Hut
+Food:  Black Olives Pizza 
+Calories:  250  
+ 
+ 
+image: /img_0383.jpg   
+image: /img_0384.jpg   
+image: /img_0385.jpg   
+image: /img_0386.jpg   
+image: /img_0387.jpg   
+image: /img_0388.jpg   
+image: /img_0389.jpg   
+ 
+image: /img_0425.jpg   
+image: /img_0426.jpg   
+image: /img_0427.jpg   
+image: /img_0428.jpg   
+image: /img_0429.jpg   
+image: /img_0430.jpg   
+image: /img_0431.jpg   
+ 
+image: /img_0432.jpg   
+image: /img_0433.jpg   
+image: /img_0434.jpg   
+image: /img_0435.jpg   
+image: /img_0436.jpg   
+image: /img_0437.jpg   
+image: /img_0438.jpg   
+
+Resturant: Pizza Hut
+Food:  Bread Stick 
+Calories:  160  
+ 
+image: /img_0341.jpg   
+image: /img_0342.jpg   
+image: /img_0343.jpg   
+image: /img_0344.jpg   
+image: /img_0345.jpg   
+image: /img_0346.jpg   
+image: /img_0347.jpg   
+ 
+image: /img_3929.jpg   
+image: /img_3930.jpg   
+image: /img_3931.jpg   
+image: /img_3932.jpg   
+image: /img_3933.jpg   
+image: /img_3934.jpg   
+image: /img_3935.jpg   
+ 
+image: /img_3929.jpg   
+image: /img_3937.jpg   
+image: /img_3938.jpg   
+image: /img_3939.jpg   
+image: /img_3940.jpg   
+image: /img_3941.jpg   
+image: /img_3942.jpg   
+
+Resturant: Pizza Hut
+Food:  Buffalo Chicken Tomato Pizza 
+Calories:  310  
+ 
+image: /img_3992.jpg   
+image: /img_3993.jpg   
+image: /img_3994.jpg   
+image: /img_3995.jpg   
+image: /img_3996.jpg   
+image: /img_3997.jpg   
+image: /img_3998.jpg   
+ 
+image: /img 002.jpg   
+image: /img 003.jpg   
+image: /img 004.jpg   
+image: /img 005.jpg   
+image: /img 006.jpg   
+image: /img 007.jpg   
+image: /img 008.jpg   
+ 
+image: /img 010.jpg   
+image: /img 011.jpg   
+image: /img 012.jpg   
+image: /img 013.jpg   
+image: /img 014.jpg   
+image: /img 015.jpg   
+image: /img 016.jpg   
+
+Resturant: Pizza Hut
+Food:  Cheese Pizza 
+Calories:  270  
+ 
+ 
+image: /img_0401.jpg   
+image: /img_0402.jpg   
+image: /img_0403.jpg   
+image: /img_0404.jpg   
+image: /img_0405.jpg   
+image: /img_0406.jpg   
+image: /img_0407.jpg   
+ 
+image: /img_0410.jpg   
+image: /img_0411.jpg   
+image: /img_0412.jpg   
+image: /img_0413.jpg   
+image: /img_0414.jpg   
+image: /img_0415.jpg   
+image: /img_0416.jpg   
+ 
+image: /img 094.jpg   
+image: /img 096.jpg   
+image: /img 097.jpg   
+image: /img 098.jpg   
+image: /img 099.jpg   
+image: /img 100.jpg   
+image: /img 101.jpg   
+ 
+image: /img_3913.jpg   
+image: /img_3914.jpg   
+image: /img_3915.jpg   
+image: /img_3916.jpg   
+image: /img_3917.jpg   
+image: /img_3918.jpg   
+image: /img_3919.jpg   
+ 
+image: /img_0418.jpg   
+image: /img_0419.jpg   
+image: /img_0420.jpg   
+image: /img_0421.jpg   
+image: /img_0422.jpg   
+image: /img_0423.jpg   
+image: /img_0424.jpg   
+
+Resturant: Pizza Hut
+Food:  Desert Cherry Nut Pizza 
+Calories:  N/A  
+ 
+image: /img_0348.jpg   
+image: /img_0358.jpg   
+image: /img_0359.jpg   
+image: /img_0360.jpg   
+image: /img_0361.jpg   
+image: /img_0362.jpg   
+image: /img_0363.jpg   
+ 
+image: /img_0365.jpg   
+image: /img_0366.jpg   
+image: /img_0367.jpg   
+image: /img_0368.jpg   
+image: /img_0369.jpg   
+image: /img_0370.jpg   
+image: /img_0371.jpg   
+ 
+image: /img_0373.jpg   
+image: /img_0374.jpg   
+image: /img_0375.jpg   
+image: /img_0376.jpg   
+image: /img_0377.jpg   
+image: /img_0378.jpg   
+image: /img_0379.jpg   
+
+Resturant: Pizza Hut
+Food:  Drink 
+Calories:  150   
+ 
+image: /img 103.jpg   
+image: /img 104.jpg   
+image: /img 105.jpg   
+image: /img 106.jpg   
+image: /img 107.jpg   
+image: /img 108.jpg   
+image: /img 109.jpg   
+
+Resturant: Pizza Hut
+Food:  Green Pepper Onion Meat Pizza 
+Calories:  310  
+  
+image: /img 044.jpg   
+image: /img 046.jpg   
+image: /img 047.jpg   
+image: /img 048.jpg   
+image: /img 049.jpg   
+image: /img 050.jpg   
+image: /img 051.jpg   
+ 
+image: /img 053.jpg   
+image: /img 054.jpg   
+image: /img 055.jpg   
+image: /img 056.jpg   
+image: /img 057.jpg   
+image: /img 058.jpg   
+image: /img 059.jpg   
+ 
+image: /img 061.jpg   
+image: /img 062.jpg   
+image: /img 063.jpg   
+image: /img 064.jpg   
+image: /img 065.jpg   
+image: /img 066.jpg   
+image: /img 067.jpg   
+
+Resturant: Pizza Hut
+Food:  Ham Meat Pizza 
+Calories:  370  
+ 
+image: /img 069.jpg   
+image: /img 071.jpg   
+image: /img 072.jpg   
+image: /img 073.jpg   
+image: /img 074.jpg   
+image: /img 075.jpg   
+image: /img 076.jpg   
+ 
+image: /img 078.jpg   
+image: /img 079.jpg   
+image: /img 080.jpg   
+image: /img 081.jpg   
+image: /img 082.jpg   
+image: /img 083.jpg   
+image: /img 084.jpg   
+ 
+image: /img 086.jpg   
+image: /img 087.jpg   
+image: /img 088.jpg   
+image: /img 089.jpg   
+image: /img 090.jpg   
+image: /img 091.jpg   
+image: /img 092.jpg   
+
+Resturant: Pizza Hut
+Food:  Mushroom Pizza 
+Calories:  250  
+ 
+image: /img_3921.jpg   
+image: /img_3922.jpg   
+image: /img_3923.jpg   
+image: /img_3924.jpg   
+image: /img_3925.jpg   
+image: /img_3926.jpg   
+image: /img_3927.jpg   
+ 
+image: /img 018.jpg   
+image: /img 020.jpg   
+image: /img 021.jpg   
+image: /img 022.jpg   
+image: /img 023.jpg   
+image: /img 024.jpg   
+image: /img 025.jpg   
+ 
+image: /img 027.jpg   
+image: /img 028.jpg   
+image: /img 029.jpg   
+image: /img 030.jpg   
+image: /img 031.jpg   
+image: /img 032.jpg   
+image: /img 033.jpg   
+
+Resturant: Pizza Hut
+Food:  Onion Pizza 
+Calories:  250  
+ 
+image: /img_0393.jpg   
+image: /img_0394.jpg   
+image: /img_0395.jpg   
+image: /img_0396.jpg   
+image: /img_0397.jpg   
+image: /img_0398.jpg   
+image: /img_0399.jpg   
+ 
+image: /img_0443.jpg   
+image: /img_0444.jpg   
+image: /img_0445.jpg   
+image: /img_0446.jpg   
+image: /img_0447.jpg   
+image: /img_0448.jpg   
+image: /img_0449.jpg   
+ 
+image: /img_0451.jpg   
+image: /img_0452.jpg   
+image: /img_0453.jpg   
+image: /img_0454.jpg   
+image: /img_0455.jpg   
+image: /img_0456.jpg   
+image: /img_0457.jpg   
+
+Resturant: Pizza Hut
+Food:  Pepperoni Pizza 
+Calories:  280  
+ 
+image: /img_0348.jpg   
+image: /img_0349.jpg   
+image: /img_0350.jpg   
+image: /img_0351.jpg   
+image: /img_0352.jpg   
+image: /img_0353.jpg   
+image: /img_0354.jpg   
+ 
+image: /img_3984.jpg   
+image: /img_3985.jpg   
+image: /img_3986.jpg   
+image: /img_3987.jpg   
+image: /img_3988.jpg   
+image: /img_3989.jpg   
+image: /img_3990.jpg   
+ 
+image: /img 035.jpg   
+image: /img 037.jpg   
+image: /img 038.jpg   
+image: /img 039.jpg   
+image: /img 040.jpg   
+image: /img 041.jpg   
+image: /img 042.jpg   
+ 
+image: /img_4017.jpg   
+image: /img_4018.jpg   
+image: /img_4019.jpg   
+image: /img_4020.jpg   
+image: /img_4021.jpg   
+image: /img_4022.jpg   
+image: /img_4023.jpg   
+
+Resturant: Quiznos
+Food:  Drink 
+Calories:  150  
+  
+image: /img 001.jpg   
+image: /img 002.jpg   
+image: /img 003.jpg   
+image: /img 004.jpg   
+image: /img 005.jpg   
+image: /img 006.jpg   
+image: /img 007.jpg   
+
+Resturant: Quiznos
+Food:  Honey Bourbon Chicken Sandwich 
+Calories:  480  
+ 
+image: /img_2127.jpg   
+image: /img_2128.jpg   
+image: /img_2129.jpg   
+image: /img_2130.jpg   
+image: /img_2131.jpg   
+image: /img_2132.jpg   
+image: /img_2133.jpg   
+ 
+image: /img_2847.jpg   
+image: /img_2848.jpg   
+image: /img_2849.jpg   
+image: /img_2850.jpg   
+image: /img_2851.jpg   
+image: /img_2852.jpg   
+image: /img_2853.jpg   
+ 
+image: /img_3544.jpg   
+image: /img_3546.jpg   
+image: /img_3547.jpg   
+image: /img_3548.jpg   
+image: /img_3549.jpg   
+image: /img_3550.jpg   
+image: /img_3551.jpg   
+
+Resturant: Quiznos
+Food:  Prime Rib Cheesesteak Sandwich 
+Calories:  830  
+ 
+image: /img_2188.jpg   
+image: /img_2189.jpg   
+image: /img_2190.jpg   
+image: /img_2191.jpg   
+image: /img_2192.jpg   
+image: /img_2193.jpg   
+image: /img_2194.jpg   
+ 
+image: /img_2821.jpg   
+image: /img_2822.jpg   
+image: /img_2823.jpg   
+image: /img_2824.jpg   
+image: /img_2825.jpg   
+image: /img_2826.jpg   
+image: /img_2827.jpg   
+ 
+image: /img_3525.jpg   
+image: /img_3527.jpg   
+image: /img_3528.jpg   
+image: /img_3529.jpg   
+image: /img_3530.jpg   
+image: /img_3531.jpg   
+image: /img_3532.jpg   
+
+Resturant: Quiznos
+Food:  Raspberry Chipotle Chicken Salad 
+Calories:  620  
+ 
+image: /IMG_5418.jpg   
+image: /IMG_5419.jpg   
+image: /IMG_5420.jpg   
+image: /IMG_5421.jpg   
+image: /IMG_5422.jpg   
+image: /IMG_5423.jpg   
+image: /IMG_5424.jpg   
+ 
+image: /img_2864.jpg   
+image: /img_2872.jpg   
+image: /img_2873.jpg   
+image: /img_2874.jpg   
+image: /img_2875.jpg   
+image: /img_2876.jpg   
+image: /img_2877.jpg   
+ 
+image: /img_3475.jpg   
+image: /img_3484.jpg   
+image: /img_3485.jpg   
+image: /img_3486.jpg   
+image: /img_3487.jpg   
+image: /img_3488.jpg   
+image: /img_3489.jpg   
+
+Resturant: Quiznos
+Food:  Roasted Turkey and Cheddar Sandwich 
+Calories:  510  
+ 
+image: /img_2179.jpg   
+image: /img_2180.jpg   
+image: /img_2181.jpg   
+image: /img_2182.jpg   
+image: /img_2183.jpg   
+image: /img_2184.jpg   
+image: /img_2185.jpg   
+ 
+image: /img_2830.jpg   
+image: /img_2831.jpg   
+image: /img_2832.jpg   
+image: /img_2833.jpg   
+image: /img_2834.jpg   
+image: /img_2835.jpg   
+image: /img_2836.jpg   
+ 
+image: /img_3534.jpg   
+image: /img_3537.jpg   
+image: /img_3538.jpg   
+image: /img_3539.jpg   
+image: /img_3540.jpg   
+image: /img_3541.jpg   
+image: /img_3542.jpg   
+
+Resturant: Quiznos
+Food:  Sonoma Turkey Sammie 
+Calories:  300  
+ 
+image: /img_2171.jpg   
+image: /img_2172.jpg   
+image: /img_2173.jpg   
+image: /img_2174.jpg   
+image: /img_2175.jpg   
+image: /img_2176.jpg   
+image: /img_2177.jpg   
+ 
+image: /img_2879.jpg   
+image: /img_2880.jpg   
+image: /img_2881.jpg   
+image: /img_2882.jpg   
+image: /img_2883.jpg   
+image: /img_2884.jpg   
+image: /img_2885.jpg   
+ 
+image: /img_3553.jpg   
+image: /img_3554.jpg   
+image: /img_3555.jpg   
+image: /img_3556.jpg   
+image: /img_3557.jpg   
+image: /img_3558.jpg   
+image: /img_3559.jpg   
+
+Resturant: Quiznos
+Food:  Turkey Ranch and Swiss Sandwich 
+Calories:  510  
+ 
+ 
+image: /img_2188.jpg   
+image: /img_2196.jpg   
+image: /img_2197.jpg   
+image: /img_2198.jpg   
+image: /img_2199.jpg   
+image: /img_2200.jpg   
+image: /img_2201.jpg   
+ 
+image: /img_2830.jpg   
+image: /img_2839.jpg   
+image: /img_2840.jpg   
+image: /img_2841.jpg   
+image: /img_2842.jpg   
+image: /img_2843.jpg   
+image: /img_2844.jpg   
+ 
+image: /img_3517.jpg   
+image: /img_3518.jpg   
+image: /img_3519.jpg   
+image: /img_3520.jpg   
+image: /img_3521.jpg   
+image: /img_3522.jpg   
+image: /img_3523.jpg   
+
+Resturant: Quiznos
+Food:  Veggie 
+Calories:  590  
+ 
+image: /img_2188.jpg   
+image: /img_2203.jpg   
+image: /img_2204.jpg   
+image: /img_2205.jpg   
+image: /img_2206.jpg   
+image: /img_2207.jpg   
+image: /img_2208.jpg   
+ 
+image: /img_2855.jpg   
+image: /img_2857.jpg   
+image: /img_2858.jpg   
+image: /img_2859.jpg   
+image: /img_2860.jpg   
+image: /img_2861.jpg   
+image: /img_2862.jpg   
+ 
+image: /IMG_5418.jpg   
+image: /IMG_5426.jpg   
+image: /IMG_5427.jpg   
+image: /IMG_5428.jpg   
+image: /IMG_5429.jpg   
+image: /IMG_5430.jpg   
+image: /IMG_5431.jpg   
+
+Resturant: Subway
+Food:  Chicken and Bacon Ranch Wrap 
+Calories:  580  
+  
+image: /img_0485.jpg   
+image: /img_0486.jpg   
+image: /img_0487.jpg   
+image: /img_0488.jpg   
+image: /img_0489.jpg   
+image: /img_0490.jpg   
+image: /img_0491.jpg   
+ 
+image: /img_0820.jpg   
+image: /img_0823.jpg   
+image: /img_0824.jpg   
+image: /img_0825.jpg   
+image: /img_0826.jpg   
+image: /img_0827.jpg   
+image: /img_0828.jpg   
+ 
+image: /img 009.jpg   
+image: /img 011.jpg   
+image: /img 012.jpg   
+image: /img 013.jpg   
+image: /img 014.jpg   
+image: /img 015.jpg   
+image: /img 016.jpg   
+
+Resturant: Subway
+Food:  Drink 
+Calories:  150  
+ 
+image: /img_0534.jpg   
+image: /img_0535.jpg   
+image: /img_0536.jpg   
+image: /img_0537.jpg   
+image: /img_0538.jpg   
+image: /img_0539.jpg   
+image: /img_0541.jpg   
+
+Resturant: Subway
+Food:  Italian BMT Sandwich 
+Calories:  410  
+ 
+image: /img_0527.jpg   
+image: /img_0528.jpg   
+image: /img_0529.jpg   
+image: /img_0530.jpg   
+image: /img_0531.jpg   
+ 
+image: /img_0831.jpg   
+image: /img_0832.jpg   
+image: /img_0833.jpg   
+image: /img_0834.jpg   
+image: /img_0835.jpg   
+image: /img_0836.jpg   
+image: /img_0837.jpg   
+ 
+image: /img 018.jpg   
+image: /img 020.jpg   
+image: /img 021.jpg   
+image: /img 022.jpg   
+image: /img 023.jpg   
+image: /img 024.jpg   
+image: /img 025.jpg   
+ 
+image: /img_3066.jpg   
+image: /img_3069.jpg   
+image: /img_3070.jpg   
+image: /img_3071.jpg   
+image: /img_3072.jpg   
+image: /img_3073.jpg   
+image: /img_3074.jpg   
+
+Resturant: Subway
+Food:  Meatball Marinara Sandwich 
+Calories:  560  
+ 
+image: /img_0502.jpg   
+image: /img_0503.jpg   
+image: /img_0504.jpg   
+image: /img_0505.jpg   
+image: /img_0506.jpg   
+image: /img_0507.jpg   
+image: /img_0508.jpg   
+ 
+image: /img_0855.jpg   
+image: /img_0856.jpg   
+image: /img_0857.jpg   
+image: /img_0858.jpg   
+image: /img_0859.jpg   
+image: /img_0860.jpg   
+image: /img_0861.jpg   
+ 
+image: /img_3035.jpg   
+image: /img_3037.jpg   
+image: /img_3038.jpg   
+image: /img_3039.jpg   
+image: /img_3040.jpg   
+image: /img_3041.jpg   
+image: /img_3042.jpg   
+
+Resturant: Subway
+Food:  Spicy Italian Sandwich 
+Calories:  480  
+ 
+image: /img_0511.jpg   
+image: /img_0512.jpg   
+image: /img_0513.jpg   
+image: /img_0514.jpg   
+image: /img_0515.jpg   
+image: /img_0516.jpg   
+image: /img_0517.jpg   
+ 
+image: /img_0847.jpg   
+image: /img_0848.jpg   
+image: /img_0849.jpg   
+image: /img_0850.jpg   
+image: /img_0851.jpg   
+image: /img_0852.jpg   
+image: /img_0853.jpg   
+ 
+image: /img_3058.jpg   
+image: /img_3059.jpg   
+image: /img_3060.jpg   
+image: /img_3061.jpg   
+image: /img_3062.jpg   
+image: /img_3063.jpg   
+image: /img_3064.jpg   
+
+Resturant: Subway
+Food:  Steak and Cheese Salad 
+Calories:  600  
+ 
+image: /img_0468.jpg   
+image: /img_0469.jpg   
+image: /img_0470.jpg   
+image: /img_0471.jpg   
+image: /img_0472.jpg   
+image: /img_0473.jpg   
+image: /img_0474.jpg   
+ 
+image: /img_0804.jpg   
+image: /img_0805.jpg   
+image: /img_0806.jpg   
+image: /img_0807.jpg   
+image: /img_0808.jpg   
+image: /img_0809.jpg   
+image: /img_0811.jpg   
+ 
+image: /img_3077.jpg   
+image: /img_3078.jpg   
+image: /img_3079.jpg   
+image: /img_3080.jpg   
+image: /img_3081.jpg   
+image: /img_3082.jpg   
+image: /img_3083.jpg   
+
+Resturant: Subway
+Food:  Subway Melt Salad 
+Calories:  380  
+ 
+image: /img_0460.jpg   
+image: /img_0461.jpg   
+image: /img_0462.jpg   
+image: /img_0463.jpg   
+image: /img_0464.jpg   
+image: /img_0465.jpg   
+image: /img_0466.jpg   
+ 
+image: /img_0811.jpg   
+image: /img_0812.jpg   
+image: /img_0813.jpg   
+image: /img_0814.jpg   
+image: /img_0815.jpg   
+image: /img_0816.jpg   
+image: /img_0817.jpg   
+ 
+image: /img_3086.jpg   
+image: /img_3087.jpg   
+image: /img_3088.jpg   
+image: /img_3089.jpg   
+image: /img_3090.jpg   
+image: /img_3091.jpg   
+image: /img_3092.jpg   
+
+Resturant: Subway
+Food:  Tuna Sandwich 
+Calories:  530  
+ 
+image: /img_0519.jpg   
+image: /img_0520.jpg   
+image: /img_0521.jpg   
+image: /img_0522.jpg   
+image: /img_0523.jpg   
+image: /img_0524.jpg   
+image: /img_0525.jpg   
+ 
+image: /img_0839.jpg   
+image: /img_0840.jpg   
+image: /img_0841.jpg   
+image: /img_0842.jpg   
+image: /img_0843.jpg   
+image: /img_0844.jpg   
+image: /img_0845.jpg   
+ 
+image: /img_3025.jpg   
+image: /img_3028.jpg   
+image: /img_3029.jpg   
+image: /img_3030.jpg   
+image: /img_3031.jpg   
+image: /img_3032.jpg   
+image: /img_3033.jpg   
+
+Resturant: Subway
+Food:  Turkey Breast Sandwich 
+Calories:  280  
+ 
+image: /img_0494.jpg   
+image: /img_0495.jpg   
+image: /img_0496.jpg   
+image: /img_0497.jpg   
+image: /img_0498.jpg   
+image: /img_0499.jpg   
+image: /img_0500.jpg   
+ 
+image: /img_0863.jpg   
+image: /img_0864.jpg   
+image: /img_0865.jpg   
+image: /img_0866.jpg   
+image: /img_0867.jpg   
+image: /img_0868.jpg   
+image: /img_0869.jpg   
+ 
+image: /img_3015.jpg   
+image: /img_3016.jpg   
+image: /img_3017.jpg   
+image: /img_3018.jpg   
+image: /img_3019.jpg   
+image: /img_3020.jpg   
+image: /img_3021.jpg   
+
+Resturant: Subway
+Food:  Veggie Delite Sandwich 
+Calories:  230  
+ 
+image: /img_0477.jpg   
+image: /img_0478.jpg   
+image: /img_0479.jpg   
+image: /img_0480.jpg   
+image: /img_0481.jpg   
+image: /img_0482.jpg   
+image: /img_0483.jpg   
+ 
+image: /img_0871.jpg   
+image: /img_0872.jpg   
+image: /img_0873.jpg   
+image: /img_0874.jpg   
+image: /img_0875.jpg   
+image: /img_0876.jpg   
+image: /img_0877.jpg   
+ 
+image: /img_3045.jpg   
+image: /img_3051.jpg   
+image: /img_3052.jpg   
+image: /img_3053.jpg   
+image: /img_3054.jpg   
+image: /img_3055.jpg   
+image: /img_3056.jpg   
+
+Resturant: Taco Bell
+Food:  Burrito 
+Calories:  350  
+  
+image: /img_2211.jpg   
+image: /img_2212.jpg   
+image: /img_2213.jpg   
+image: /img_2214.jpg   
+image: /img_2215.jpg   
+image: /img_2216.jpg   
+image: /r_img_2219.jpg
+ 
+image: /img_2940.jpg   
+image: /img_2942.jpg   
+image: /img_2943.jpg   
+image: /img_2944.jpg   
+image: /img_2945.jpg   
+image: /img_2946.jpg   
+image: /img_2947.jpg   
+ 
+image: /img_2950.jpg   
+image: /img_2951.jpg   
+image: /img_2952.jpg   
+image: /img_2953.jpg   
+image: /img_2954.jpg   
+image: /img_2955.jpg   
+image: /img_2956.jpg   
+ 
+image: /img_2959.jpg   
+image: /img_2960.jpg   
+image: /img_2961.jpg   
+image: /img_2962.jpg   
+image: /img_2963.jpg   
+image: /img_2964.jpg   
+image: /img_2965.jpg   
+ 
+image: /img_1106.jpg   
+image: /img_1107.jpg   
+image: /img_1108.jpg   
+image: /img_1109.jpg   
+image: /img_1110.jpg   
+image: /img_1111.jpg   
+image: /img_1112.jpg   
+ 
+image: /img_1124.jpg   
+image: /img_1125.jpg   
+image: /img_1126.jpg   
+image: /img_1127.jpg   
+image: /img_1128.jpg   
+image: /img_1129.jpg   
+image: /img_1130.jpg   
+ 
+image: /img_1144.jpg   
+image: /img_1145.jpg   
+image: /img_1146.jpg   
+image: /img_1147.jpg   
+image: /img_1148.jpg   
+image: /img_1149.jpg   
+image: /img_1150.jpg   
+ 
+image: /img_1162.jpg   
+image: /img_1163.jpg   
+image: /img_1164.jpg   
+image: /img_1165.jpg   
+image: /img_1166.jpg   
+image: /img_1167.jpg   
+image: /img_1169.jpg   
+
+Resturant: Taco Bell
+Food:  Chalupa 
+Calories:  350  
+ 
+image: /img_2228.jpg   
+image: /img_2229.jpg   
+image: /img_2230.jpg   
+image: /img_2231.jpg   
+image: /img_2232.jpg   
+image: /img_2233.jpg   
+image: /img_2234.jpg   
+ 
+image: /img_2889.jpg   
+image: /img_2890.jpg   
+image: /img_2891.jpg   
+image: /img_2892.jpg   
+image: /img_2893.jpg   
+image: /img_2894.jpg   
+image: /img_2896.jpg   
+ 
+image: /img_2914.jpg   
+image: /img_2915.jpg   
+image: /img_2918.jpg   
+image: /img_2919.jpg   
+image: /img_2920.jpg   
+image: /img_2921.jpg   
+image: /img_2922.jpg   
+ 
+image: /img_1098.jpg   
+image: /img_1099.jpg   
+image: /img_1100.jpg   
+image: /img_1101.jpg   
+image: /img_1102.jpg   
+image: /img_1103.jpg   
+image: /img_1104.jpg   
+ 
+image: /img_1132.jpg   
+image: /img_1133.jpg   
+image: /img_1134.jpg   
+image: /img_1135.jpg   
+image: /img_1136.jpg   
+image: /img_1137.jpg   
+image: /img_1138.jpg   
+
+Resturant: Taco Bell
+Food:  Drink 
+Calories:  150  
+ 
+image: /img 061.jpg   
+image: /img 062.jpg   
+image: /img 063.jpg   
+image: /img 064.jpg   
+image: /img 065.jpg   
+image: /img 066.jpg   
+image: /img 067.jpg   
+
+Resturant: Taco Bell 
+Food:  Gordita 
+Calories:  280  
+ 
+image: /img_2896.jpg   
+image: /img_2897.jpg   
+image: /img_2898.jpg   
+image: /img_2900.jpg   
+image: /img_2901.jpg   
+image: /img_2902.jpg   
+image: /img_2903.jpg   
+ 
+image: /img_2905.jpg   
+image: /img_2907.jpg   
+image: /img_2908.jpg   
+image: /img_2909.jpg   
+image: /img_2910.jpg   
+image: /img_2911.jpg   
+image: /img_2912.jpg   
+ 
+image: /img_1089.jpg   
+image: /img_1091.jpg   
+image: /img_1092.jpg   
+image: /img_1093.jpg   
+image: /img_1094.jpg   
+image: /img_1095.jpg   
+image: /img_1096.jpg   
+ 
+image: /img_1115.jpg   
+image: /img_1116.jpg   
+image: /img_1117.jpg   
+image: /img_1118.jpg   
+image: /img_1119.jpg   
+image: /img_1120.jpg   
+image: /img_1121.jpg   
+
+Resturant: Taco Bell
+Food:  Taco 
+Calories:  260  
+ 
+ 
+image: /img_2219.jpg   
+image: /img_2220.jpg   
+image: /img_2221.jpg   
+image: /img_2222.jpg   
+image: /img_2223.jpg   
+image: /img_2224.jpg   
+image: /img_2225.jpg   
+ 
+image: /img_2228.jpg   
+image: /img_2236.jpg   
+image: /img_2237.jpg   
+image: /img_2238.jpg   
+image: /img_2239.jpg   
+image: /img_2240.jpg   
+image: /img_2241.jpg   
+ 
+image: /img_2924.jpg   
+image: /img_2925.jpg   
+image: /img_2926.jpg   
+image: /img_2927.jpg   
+image: /img_2928.jpg   
+image: /img_2929.jpg   
+image: /img_2930.jpg   
+ 
+image: /img_2932.jpg   
+image: /img_2933.jpg   
+image: /img_2934.jpg   
+image: /img_2935.jpg   
+image: /img_2936.jpg   
+image: /img_2937.jpg   
+image: /img_2938.jpg   
+ 
+image: /img_1153.jpg   
+image: /img_1154.jpg   
+image: /img_1155.jpg   
+image: /img_1156.jpg   
+image: /img_1157.jpg   
+image: /img_1158.jpg   
+image: /img_1159.jpg   
+
+Resturant: Wendy’s
+Food:  Baconator 
+Calories:  830  
+ 
+image: /img_1397.jpg   
+image: /img_1398.jpg   
+image: /img_1399.jpg   
+image: /img_1400.jpg   
+image: /img_1401.jpg   
+image: /img_1402.jpg   
+image: /img_1403.jpg   
+ 
+image: /img_2326.jpg   
+image: /img_2327.jpg   
+image: /img_2328.jpg   
+image: /img_2329.jpg   
+image: /img_2330.jpg   
+image: /img_2331.jpg   
+image: /img_2332.jpg   
+ 
+image: /img_3833.jpg   
+image: /img_3837.jpg   
+image: /img_3838.jpg   
+image: /img_3839.jpg   
+image: /img_3840.jpg   
+image: /img_3841.jpg   
+image: /img_3842.jpg   
+
+Resturant: Wendy’s
+Food:  Chicken Club 
+Calories:  540  
+ 
+image: /img_1405.jpg   
+image: /img_1406.jpg   
+image: /img_1407.jpg   
+image: /img_1408.jpg   
+image: /img_1409.jpg   
+image: /img_1410.jpg   
+image: /img_1411.jpg   
+ 
+image: /img_2308.jpg   
+image: /img_2309.jpg   
+image: /img_2310.jpg   
+image: /img_2311.jpg   
+image: /img_2312.jpg   
+image: /img_2313.jpg   
+image: /img_2314.jpg   
+ 
+image: /img_3824.jpg   
+image: /img_3826.jpg   
+image: /img_3827.jpg   
+image: /img_3828.jpg   
+image: /img_3829.jpg   
+image: /img_3830.jpg   
+image: /img_3831.jpg   
+
+Resturant: Wendy’s
+Food:  Chicken Nuggets 
+Calories:  190  
+ 
+image: /img_1421.jpg   
+image: /img_1422.jpg   
+image: /img_1423.jpg   
+image: /img_1424.jpg   
+image: /img_1425.jpg   
+image: /img_1426.jpg   
+image: /img_1427.jpg   
+ 
+image: /img_1429.jpg   
+image: /img_1431.jpg   
+image: /img_1432.jpg   
+image: /img_1433.jpg   
+image: /img_1434.jpg   
+image: /img_1435.jpg   
+image: /img_1436.jpg   
+ 
+image: /img_1439.jpg   
+image: /img_1440.jpg   
+image: /img_1441.jpg   
+image: /img_1442.jpg   
+image: /img_1443.jpg   
+image: /img_1444.jpg   
+image: /img_1445.jpg   
+
+Resturant: Wendy’s
+Food:  Chilli Soup 
+Calories:  280  
+ 
+image: /img_1389.jpg   
+image: /img_1390.jpg   
+image: /img_1391.jpg   
+image: /img_1392.jpg   
+image: /img_1393.jpg   
+image: /img_1394.jpg   
+image: /img_1395.jpg   
+ 
+image: /img_2372.jpg   
+image: /img_2373.jpg   
+image: /img_2374.jpg   
+image: /img_2375.jpg   
+image: /img_2376.jpg   
+image: /img_2377.jpg   
+image: /img_2378.jpg   
+ 
+image: /img 141.jpg   
+image: /img 142.jpg   
+image: /img 143.jpg   
+image: /img 144.jpg   
+image: /img 145.jpg   
+image: /img 146.jpg   
+image: /img 147.jpg   
+
+Resturant: Wendy’s
+Food:  Drink 
+Calories:  150  
+ 
+image: /img_1483.jpg   
+image: /img_1484.jpg   
+image: /img_1485.jpg   
+image: /img_1486.jpg   
+image: /img_1487.jpg   
+image: /img_1488.jpg   
+image: /img_1489.jpg   
+
+Resturant: Wendy’s
+Food:  Half Pound Double 
+Calories:  700  
+  
+image: /img_1373.jpg   
+image: /img_1374.jpg   
+image: /img_1375.jpg   
+image: /img_1376.jpg   
+image: /img_1377.jpg   
+image: /img_1378.jpg   
+image: /img_1379.jpg   
+ 
+image: /img_2345.jpg   
+image: /img_2346.jpg   
+image: /img_2347.jpg   
+image: /img_2348.jpg   
+image: /img_2349.jpg   
+image: /img_2350.jpg   
+image: /img_2351.jpg   
+ 
+image: /img_3860.jpg   
+image: /img_3862.jpg   
+image: /img_3863.jpg   
+image: /img_3864.jpg   
+image: /img_3865.jpg   
+image: /img_3866.jpg   
+image: /img_3867.jpg   
+
+Resturant: Wendys
+Food:  Mandarian Chicken Salad 
+Calories:  180  
+ 
+image: /img_1456.jpg   
+image: /img_1458.jpg   
+image: /img_1459.jpg   
+image: /img_1460.jpg   
+image: /img_1461.jpg   
+image: /img_1462.jpg   
+image: /img_1463.jpg   
+ 
+image: /img_2380.jpg   
+image: /img_2381.jpg   
+image: /img_2382.jpg   
+image: /img_2383.jpg   
+image: /img_2384.jpg   
+image: /img_2385.jpg   
+image: /img_2386.jpg   
+ 
+image: /img 123.jpg   
+image: /img 125.jpg   
+image: /img 126.jpg   
+image: /img 127.jpg   
+image: /img 128.jpg   
+image: /img 129.jpg   
+image: /img 130.jpg   
+ 
+image: /img_3892.jpg   
+image: /img_3893.jpg   
+image: /img_3894.jpg   
+image: /img_3895.jpg   
+image: /img_3896.jpg   
+image: /img_3897.jpg   
+
+Resturant: Wendy’s
+Food:  Quarter Pound Single 
+Calories:  430  
+ 
+image: /img_1447.jpg   
+image: /img_1448.jpg   
+image: /img_1449.jpg   
+image: /img_1450.jpg   
+image: /img_1451.jpg   
+image: /img_1452.jpg   
+image: /img_1453.jpg   
+ 
+image: /img_2355.jpg   
+image: /img_2356.jpg   
+image: /img_2357.jpg   
+image: /img_2358.jpg   
+image: /img_2359.jpg   
+image: /img_2360.jpg   
+image: /img_2361.jpg   
+ 
+image: /img 114.jpg   
+image: /img 116.jpg   
+image: /img 117.jpg   
+image: /img 118.jpg   
+image: /img 119.jpg   
+image: /img 120.jpg   
+image: /img 121.jpg   
+ 
+image: /img_3869.jpg   
+image: /img_3871.jpg   
+image: /img_3872.jpg   
+image: /img_3873.jpg   
+image: /img_3874.jpg   
+image: /img_3875.jpg   
+image: /img_3876.jpg   
+
+Resturant: Wendy’s
+Food:  South West Taco Salad 
+Calories:  400  
+ 
+image: /img_1465.jpg   
+image: /img_1467.jpg   
+image: /img_1468.jpg   
+image: /img_1469.jpg   
+image: /img_1470.jpg   
+image: /img_1471.jpg   
+image: /img_1472.jpg   
+ 
+image: /img_2363.jpg   
+image: /img_2365.jpg   
+image: /img_2366.jpg   
+image: /img_2367.jpg   
+image: /img_2368.jpg   
+image: /img_2369.jpg   
+image: /img_2370.jpg   
+ 
+image: /img 132.jpg   
+image: /img 134.jpg   
+image: /img 135.jpg   
+image: /img 136.jpg   
+image: /img 137.jpg   
+image: /img 138.jpg   
+image: /img 139.jpg   
+ 
+image: /img_3886.jpg   
+image: /img_3887.jpg   
+image: /img_3888.jpg   
+image: /img_3889.jpg   
+image: /img_3890.jpg   
+image: /img_3891.jpg   
+
+Resturant: Wendy’s
+Food:  Spicy Chicken Sandwich 
+Calories:  230  
+ 
+image: /img_1353.jpg   
+image: /img_1354.jpg   
+image: /img_1355.jpg   
+image: /img_1356.jpg   
+image: /img_1357.jpg   
+image: /img_1358.jpg   
+image: /img_1359.jpg   
+ 
+image: /img_2317.jpg   
+image: /img_2318.jpg   
+image: /img_2319.jpg   
+image: /img_2320.jpg   
+image: /img_2321.jpg   
+image: /img_2322.jpg   
+image: /img_2323.jpg   
+ 
+image: /img_3815.jpg   
+image: /img_3817.jpg   
+image: /img_3818.jpg   
+image: /img_3819.jpg   
+image: /img_3820.jpg   
+image: /img_3821.jpg   
+image: /img_3822.jpg   
+
+Resturant: Wendy’s
+Food:  Ultimate Chicken Grill 
+Calories:  320  
+ 
+image: /img_1365.jpg   
+image: /img_1366.jpg   
+image: /img_1367.jpg   
+image: /img_1368.jpg   
+image: /img_1369.jpg   
+image: /img_1370.jpg   
+image: /img_1371.jpg   
+ 
+image: /img_2335.jpg   
+image: /img_2336.jpg   
+image: /img_2337.jpg   
+image: /img_2338.jpg   
+image: /img_2339.jpg   
+image: /img_2340.jpg   
+image: /img_2341.jpg   
+ 
+image: /img_3806.jpg   
+image: /img_3808.jpg   
+image: /img_3809.jpg   
+image: /img_3810.jpg   
+image: /img_3811.jpg   
+image: /img_3812.jpg   
+image: /img_3813.jpg   
