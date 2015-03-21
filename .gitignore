@@ -34,3 +34,7 @@ proguard/
 
 # omit for output
 a.out
+
+# omit for packages
+*.zip
+*.tar.gz
