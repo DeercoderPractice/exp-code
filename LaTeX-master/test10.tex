@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx, subfig}
+\usepackage{caption}
+\begin{document}
+One image \ref{one-img}.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width = .8\textwidth]{figure1.jpg}
+\caption{example of one image} \label{one-img}
+\end{figure}
+
+Image together is shown in Figure \ref{img-together}.
+First sub-image is shown as Figure \ref{sub1}.
+In Figure \ref{sub2} the second sub-image is presented.
+\begin{figure}[!htbp]
+\centering
+\subfloat[first sub-image]{
+\includegraphics[width = .45\textwidth]{figure1.jpg}
+\label{sub1}
+}
+\qquad
+\subfloat[second sub-image]{
+\includegraphics[width = .45\textwidth]{figure2.jpg}
+\label{sub2}
+}
+\caption{combined image}\label{img-together}
+\end{figure}
+
+The result is shown in Equation \ref{abcde}:
+\begin{equation}\label{abcde}
+a+b+c+d+e=f
+\end{equation}
+
+\end{document}
