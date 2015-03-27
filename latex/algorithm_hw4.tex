@@ -1,20 +1,27 @@
 \documentclass{article}
 \usepackage{listings}	% add code segment
 \usepackage{titlesec}   %set the page head/foot
+%\usepackage{lastpage} % maybe used using Lastpages
+\usepackage[page]{totalcount}
 
 \title{Algorithm Homework 4}
 \author{Chang Liu}
 
-\newpagestyle{maintest}
-{            
-    \sethead{Chang Liu}{chang_liu@student.uml.edu}{#01516178}     % %
-    \setfoot{}
+\begin{document}
+
+\newpagestyle{main}{            
+    \sethead{Chang Liu}{HW4}{chang\_liu\\@student.uml.edu} % I don't know why here must use two "\" before to input @
+    % and also know that strange error is often caused by the special characters.
+    % here the \thepage is very useful to add for page number in the right part
+    % \setfoot{}{}{\thepage} % just output the page number
+    \setfoot{}{}{\thepage\ \// \totalpages} % add totalpages then needs page package and totalcount
     \headrule
     \footrule
 }
-\newpagestyle{maintest}
+\pagestyle{main}
 
-\begin{document}
+%\clearpage
+
 
 \section{Q1}
 Following the next four steps for verification and if doesn't meet then we could know this algorithm is not optimal.
