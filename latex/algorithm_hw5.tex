@@ -1,0 +1,73 @@
+%% Author: Chang Liu
+%  Description: This template is used for generating the page head and foot
+%  2015-03-27 00:15:10
+
+\documentclass{article}
+\usepackage{listings}	% add code segment
+\usepackage{titlesec}   %set the page head/foot
+%\usepackage{lastpage} % maybe used using Lastpages
+%\usepackage{mathtools}
+\usepackage{commath} % NOTE: use this with \abs to print the absolute value of E!!!
+\usepackage[page]{totalcount}
+
+\title{Algorithm Homework 5}
+\author{Chang Liu}
+
+\begin{document}
+
+\newpagestyle{main}{            
+    \sethead{Chang Liu}{HW5}{chang\_liu\\@student.uml.edu} % I don't know why here must use two "\" before to input @
+    % and also know that strange error is often caused by the special characters.
+    % here the \thepage is very useful to add for page number in the right part
+    % \setfoot{}{}{\thepage} % just output the page number
+    \setfoot{}{}{\thepage\ \// \totalpages} % add totalpages then needs page package and totalcount
+    \headrule
+    \footrule
+}
+\pagestyle{main}
+
+\section{Problem 1: Two Kid Problem(15 points)}
+This problem could be thought of as a max flow problem.
+
+1) Let the home be the source node and the school be the destination node.
+
+2) For all other corners or crossing which could be visited by both of the children, we could assume a label $c_{i}$
+to note these corners.
+
+3) For every two corners, set a value $f(c_{i}, c_{j}) = 1$ if there is path that can be reached from $c_{i}$ to $c_{j}$, other nodes who connected to the corners or nodes interconnected have a weight that is more than 1, which could guarantee the minimum weight is one for each edge.
+
+4) Then the problem could be described that: from the source to the destination, we assume the from one point to another
+as a DAG(directed acyclic graph), if there exist a maximum flow which value is 2, then we could judge that there exist a
+non-contradict path which could make both of the two children attend the same school.
+
+~\\
+\textbf{Proof or validness:}
+
+We could know that apart from all other edges which weight is more than 1, if there is exist a solution that makes the
+two children go to the same school, then they should either share some corners(because they can visit the corner, otherwise the home or school doesn't meet the requirement), or they just go in two different straight direction which
+doesn\'st share any nodes.
+
+For the first situation, since there are two children and they both visit this shared corner, so the incoming weight is
+2, even though other nodes weight may be larger than 2, it is still 2 for these graph. We can know that other paths have
+the weight equal or larger than 2, if smaller, then there must be negative weight.
+
+For the second situation, we know that for two totally unrelated path, they share the source and ending point, their weight is 2 for maximum flow, other nodes that lay in the middle must have larger weights or at least, if two children we should combine it as $ 1 + 1 = 2 $, so max is still 2. 
+
+So combining these two facts it's obvious that the max flow is 2 to solve the problem.
+
+\section{Problem 2: Vertex Capacities(15 points)}
+
+
+
+\section{Problem 3: Modified Residual Network(15 points)}
+
+
+
+\section{Problem 4:  \abs{E}  Augmenting Paths(15 points)}
+
+
+
+\section{Problem 5: Max Flow by Scaling(20 points)}
+
+
+\end{document}
