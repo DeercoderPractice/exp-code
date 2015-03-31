@@ -1,0 +1,87 @@
+\documentclass{article}
+\usepackage{verbatim}
+
+
+\title{\LaTeX{} learning notes}
+\author{Chang Liu}
+
+
+\begin{document}
+
+\maketitle
+
+
+\section{Chapter1 Beginning}
+Latex treats blank and table the same space, many sequential blank is also treated as a space.
+A new blank line indicates a new paragraph, and multiple new blank line  is also the same as one.
+
+
+Special character: use $\backslash$ to generate to,  $\backslash\backslash$ is just a new line command. And many
+special characters are represented by $\backslash$ + character , for example, \# is represented
+by $\backslash$ with \#  
+
+Add some blank after the command, like \TeX{} otherwise it doesn't know how to end, or just \TeX leave blank here
+
+
+\textsl{lean}
+\newline
+
+\begin{comment}
+This is a very long commment, however it needs to add packages verbatim
+\end{comment}
+
+latex foo.tex % from .tex to .dvi
+xdvi foo.dvi % preview dvi
+dvips -Pcmz foo.dvi -o foo.ps % convert to .ps
+
+
+% \documentclass[11pt, twoside, a4paper]{article}
+% article, report, book, slides
+% pagestyle{style} plain, headings, empty .... for page foot or head
+% \include to add for large documents
+
+
+\section{Chapter2 Structure}
+
+% \\*, add a new line(not new paragraph) but forbid new page
+% \newpage, add a new page
+% \mbox to add some words in the same line
+% \fbox is the same as mbox but gives a rectangle on the words.
+
+whatever the before is how long, \mbox{I am in the same line}
+
+
+\fbox{I am in rectangle}
+
+
+Don't think that two \textsl{yinhao} is the right one, use two seperated single-yinhao to add it
+for example:
+
+''Please press the 'X' key.''
+
+% daughter-in-law, page 13--67, yes---or no?, $-1$, different meanings for the output
+daughter-in-law, 
+
+page 13--67, 
+
+yes---or no?, 
+
+$-1$,
+
+http://www.rich.edu/\~{}bush
+
+http://www.rich.edu/$\sim$bush
+
+
+Its $-30^{\circ}\mathrm{C}$,
+
+Its $-30\mathrm{C}$
+I will go out
+
+\ldots % for pring thte ...
+
+H\^otel % some character above the o
+
+
+
+\end{document}
