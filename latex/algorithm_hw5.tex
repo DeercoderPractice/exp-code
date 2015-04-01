@@ -56,14 +56,35 @@ For the second situation, we know that for two totally unrelated path, they shar
 So combining these two facts it's obvious that the max flow is 2 to solve the problem.
 
 \section{Problem 2: Vertex Capacities(15 points)}
+The original max flow problem with \textsl{vertex capacity} constrain could be converted to a non-vertex-capacity problem by the following changes:
 
+1) for each vertex $v$, divide it into two separate vertex $v_{in}$ and $v_{out}$.
+
+2) if there is an original edge $(u, v)$ in the old graph $G$, in our new graph $G^{'}$, we just need to make an
+edge $(u, v_{in})$.
+
+3) if there is an original edge $(v, w)$ in the old graph $G$, in our new graph $G^{'}$, we just need to make an
+edge $(v_{out}, w)$.
+
+4) for the two vertex $v_{in}, v_{out}$, we just need to make an edge between them and assign the capacity of this
+edge to be the vertex capacity of original vertex $v$.
+
+5) after all these rules setting, we could know that each new vertex $v_{in}, v_{out}$ don't have any vertex 
+capacity constrains, the original constrain is shown by the edges of the two new vertex. But the overall max
+flow is not changed as the incoming and outgoing edge capacity is not changed, so the network flow is not changed,
+the vertex capacity constrain is added by the new edge comparing with old graph, but it is still the same constrain
+condition as before, so the new solution is the same as the old one.
+
+At last, we could know that in the new graph $G^{'}$, the added vertex is $|V|$, for the source vertex and end vertex,
+we still need to divide them even though they don't have the incoming or outgoing flow, otherwise the vertex capacity
+is not shown. For the edge we need to add $|E|$ to the original graph $G$. \textbf{So in the new graph $G^{'}$, the edges are $|V|+|E|$, the vertex are $2\times|V|$.}
 
 
 \section{Problem 3: Modified Residual Network(15 points)}
 
 
 
-\section{Problem 4:  \abs{E}  Augmenting Paths(15 points)}
+\section{Problem 4: $|E|$  Augmenting Paths(15 points)}
 
 
 
