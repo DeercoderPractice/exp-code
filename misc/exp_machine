@@ -1,0 +1,10 @@
+README
+===
+
+We could use this command to ssh to machine in the labtorary.
+`ssh changliu@changliu-ThinkPad-T440s`
+
+the later domain name is listed as the command line's showing at T440s
+
+
+**NOTE**: we need to add to the campus network, otherwise it's not OK.
