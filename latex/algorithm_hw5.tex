@@ -115,6 +115,8 @@ that in the augmenting path.
 
 6) do the operations from step 2) to step 5). If it can generate the residual network then keep looping, otherwise, If it cannot generate the residual network, then it has reached the maximum flow network, and the \textbf{last augmenting path} stored in step 2) is just the last changing path. We just need to check all the edges that go into the sink $t$, as ${t_{1}, t_{2}, t_{3}, ... t_{k}}$ shows, and the sum of them $\sum_{i=1}^k{t_i}$ is the maximum flow.($k$ is the size that counts to all the edges that go into the sink $t$), or select the edges that go out of the source $s$, as ${s_{1},s_{2}, s_{3}, ... s_{k\prime}}$ shows, and the sum of them $\sum_{i=1}^{k\prime}{s_i}$ is also the maximum(${k\prime}$ is the counts of edges that go out of the source $s$). Just like the below figure c) shows the source and sink nodes that the same as 11+12=19+4=23.
 
+For the complexity of this algorithm, it is known that for each augmenting path, it will augment the graph G by one edge of the residual network, since each time it will select the minimum value of the path, and this will result in the maximum changes for this edge, and in the later rounds we will not select this edge since it reached its changing peak and cannot change anymore. So the extreme case is that each time we decrease one edge for the graph, and the overall cost is just the number of edges, which is $O(|E|)$;
+
 \begin{center} % add this to make the figure shows in the middle of the pages
 \includegraphics[width=4.00in,height=2.00in]{hw5_2.png}
 \end{center}
@@ -148,9 +150,7 @@ And a minimum cut is the cut which makes this capacity the least. We could know 
 capacity of one edge is $C$, and the maximum edge that connects $S$ to $T$ is $|E|$, in this extreme graph, the capacity
 of this cut reached the maximum capacity and its value is $C|E|$. And this extreme situation is also the maximum situation, so the minimum cut could be at most this value.
 
-b) For this problem, when searching for an augmenting path, we could use the depth-first-search algorithm to start from
-the source $s$ to the sink $t$, while searching, if there are multiple choice, we should choose the minimum one that exceeds the value $K$, so that it will meet all the requirements that the capacity is at least $K$. The total cost for this algorithm is the depth of this graph and it's at most $|E|$ in the very extreme case, that all the edges forms the
-depths, so the complexity is $O(|E|)$.
+b) For this problem, when searching for an augmenting path, we could use the depth-first-search($DFS$) algorithm to start from the source $s$ to the sink $t$, while searching, if there are multiple choice, we should choose the minimum one that exceeds the value $K$, so that it will meet all the requirements that the capacity is at least $K$. The total cost for this algorithm is the $O(|V|+|E|)$ and in the flow network, the vertex is also treated as the function of $O(|E|)$, so that the overall cost is also the function of $O(|E|)$, so the complexity is $O(|E|)$.
 
 c) First, we could know that $K=2^{\left \lfloor{\log{C}}\right \rfloor}$, where $C$ is the value of the maximum capacity of all the edges in the graph.
 
@@ -159,7 +159,6 @@ value is 1 so that the last iteration could solve the problem of some capacity t
 
 For decreasing process, since $K$  and $K/2$ value are all the capacity that lay in the graph, by scaling it is easy
 to constrain the network flow and make it ends faster. But for this specific problem, according to \textbf{Theorem 26.6 (Max-flow min-cut theorem)}, it's shown that maximum flow is equal to no augmenting path in the residual network. According to the above description, after all the iterations it is guaranteed that it will end with no more augmenting path, so it is also the same conclusion which will return a maximum flow.
-
 
 
 \end{document}
