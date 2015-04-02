@@ -92,10 +92,7 @@ is not shown. For the edge we need to add $|E|$ to the original graph $G$. So in
 \section{Modified Residual Network(15 points)}
 \textbf{Question}: Suppose that we redefine the residual network to disallow edges into $s$. Argue that the procedure FORD-FULKERSON still correctly computes a maximum flow.\newline
 
-\textbf{Solution}: Generally speaking, according to the FORD-FULKERSON method, when we want to calculate the maximum flow, we need to find the residual network and choose an augmenting path. Since this path's start point is $s$, so if we dismiss the edges into $s$, it still doesn't make any changes to the augmenting path, so the algorithm is the same as before's choice, and the final solution is still the same, since we would never choose the path that has the edge into the source $s$. Now I'd like to give a formal proof.
-
-
-
+\textbf{Solution}: Generally speaking, according to the FORD-FULKERSON method, when we want to calculate the maximum flow, we need to find the residual network and choose an augmenting path. Since this path's start point is $s$, so if we dismiss the edges into $s$, it still doesn't make any changes to the augmenting path, so the algorithm is the same as before's choice, and the final solution is still the same, since we would never choose the path that has the edge into the source $s$.
 
 
 \section{$|E|$  Augmenting Paths(15 points)}
@@ -106,8 +103,7 @@ ultimate one, which is the final maximum flow path. I would give a step by step 
 
 1) calculate the residual network for the original graph $G$.
 
-2) then we could choose an augmenting path for this residual network generated above, record this augmenting path so
-that it contains all the edges that forms a routine from source $s$ to sink $t$.
+2) then we could choose an augmenting path for this residual network generated above by using minimum cut, record this augmenting path so that it contains all the edges that forms a routine from source $s$ to sink $t$.
 
 3) find the maximum weight or value for this augmenting path by using $min\{v_{1}, v_{2}, ... v_{n}\}$ in all the edges
 for this augmenting path.($n$ is the size of this augmenting path)
@@ -131,7 +127,7 @@ Let $G=(V, E)$ be a flow network with source $s$, sink $t$, and an integer capac
 
 a. Argue that a minimum cut of $G$ has capacity at most $C|E|$.
 
-b. For a given number K, show how to find an augmenting path of capacity at least K in $O(E)$ time, if such a path exists.
+b. For a given number K, show how to find an augmenting path of capacity at least K in $O(|E|)$ time, if such a path exists.
 
 We can use the following modification of FORD-FULKERSON-METHOD to compute a maximum flow in $G$:
 
@@ -144,6 +140,25 @@ We can use the following modification of FORD-FULKERSON-METHOD to compute a maxi
 c. Argue that MAX-FLOW-BY-SCALING returns a maximum flow.\newline
 
 \textbf{Solution}:
+
+a) For any cuts of the graph $G=(V, E)$, the capacity of one cut is as follows:
+$$c(S, T) = \sum_{u\in{S}}\sum_{v\in{T}}c(u, v)$$
+
+And a minimum cut is the cut which makes this capacity the least. We could know from the question that the maximum 
+capacity of one edge is $C$, and the maximum edge that connects $S$ to $T$ is $|E|$, in this extreme graph, the capacity
+of this cut reached the maximum capacity and its value is $C|E|$. And this extreme situation is also the maximum situation, so the minimum cut could be at most this value.
+
+b) For this problem, when searching for an augmenting path, we could use the depth-first-search algorithm to start from
+the source $s$ to the sink $t$, while searching, if there are multiple choice, we should choose the minimum one that exceeds the value $K$, so that it will meet all the requirements that the capacity is at least $K$. The total cost for this algorithm is the depth of this graph and it's at most $|E|$ in the very extreme case, that all the edges forms the
+depths, so the complexity is $O(|E|)$.
+
+c) First, we could know that $K=2^{\left \lfloor{\log{C}}\right \rfloor}$, where $C$ is the value of the maximum capacity of all the edges in the graph.
+
+Second, for each iteration, it is known that the $K$ value is decreasing until it reaches the value 1, which is the power of zero, for each iteration it will decrease by linear, instead, the $K$ value could guarantee that the minimum
+value is 1 so that the last iteration could solve the problem of some capacity that cannot augmented largely but need this small value 1 to adjust;
+
+For decreasing process, since $K$  and $K/2$ value are all the capacity that lay in the graph, by scaling it is easy
+to constrain the network flow and make it ends faster. But for this specific problem, according to \textbf{Theorem 26.6 (Max-flow min-cut theorem)}, it's shown that maximum flow is equal to no augmenting path in the residual network. According to the above description, after all the iterations it is guaranteed that it will end with no more augmenting path, so it is also the same conclusion which will return a maximum flow.
 
 
 
