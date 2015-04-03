@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Abstract}{2}
+\contentsline {section}{\numberline {2}Introduction}{2}
+\contentsline {section}{\numberline {3}Highlights}{2}
+\contentsline {subsection}{\numberline {3.1}Comparing to other software}{2}
+\contentsline {section}{\numberline {4}Architecture}{3}
+\contentsline {subsection}{\numberline {4.1}Data storage}{3}
+\contentsline {subsection}{\numberline {4.2}Layers}{3}
+\contentsline {subsection}{\numberline {4.3}Network and Run Mode}{3}
+\contentsline {subsection}{\numberline {4.4}Training A network}{3}
+\contentsline {subsection}{\numberline {4.5}Application and Examples}{3}
+\contentsline {subsection}{\numberline {4.6}Object Classification}{3}
+\contentsline {subsection}{\numberline {4.7}Learning Semantic Features}{4}
+\contentsline {subsection}{\numberline {4.8}Object Detection}{4}
