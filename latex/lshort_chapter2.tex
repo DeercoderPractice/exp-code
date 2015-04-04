@@ -1,0 +1,144 @@
+\documentclass{article}
+%\usepackage{}
+\begin{document}
+
+\section{AAA}
+A reference to this subsection
+\label{sec:this} looks like:
+‘‘see section~\ref{sec:this} on
+page~\pageref{sec:this}.’’
+
+
+Now that we define a new label \label{name}
+
+
+\newpage
+
+\section{BBB}
+a reference is pointed to ~\ref{sec:this} OK?
+
+Here is the name area ~\ref{name}
+
+\newpage
+
+
+\section{CCC}
+
+Now that we use the ref's page as the index, which is ~\pageref{sec:this}
+
+
+
+\section{DDD}
+
+Footnote is where it lays at the bottom of the page\footnote{This is a footnote for the page}
+
+
+\section{EEE}
+
+Example:
+
+this is a print for the underline \underline{HaHaHaHaHaHaHaH}
+
+this is for leaning \emph{lean}
+
+\section{FFFF: List Example}
+
+\flushleft
+
+\begin{enumerate} % enumerate用于带序号的列表 
+\item  You can begin in this items
+\begin{itemize} % 用于简单列表
+\item But it might start to look silly.
+\item[-] with a dash
+\item new item, 3th one.
+\end{itemize}
+
+\item This is a second item
+\begin{description}
+\item[Stupid] THis is stupid
+\item[Smart] Hello, world
+\item[Honest] Hello, honest
+\end{description}
+
+\end{enumerate}
+
+
+\section{GGG}
+A typographical rule of thumb
+for the line length is:
+\begin{quote}
+On average, no line should
+be longer than 66 characters.
+\end{quote}
+This is why \LaTeX{} pages have
+such large borders by default and
+also why multicolumn print is
+used in newspapers.\newline
+
+I know only one English poem by
+heart. It is about Humpty Dumpty.
+\begin{flushleft}
+\begin{verse}
+Humpty Dumpty sat on a wall:\\
+Humpty Dumpty had a great fall.\\
+All the King’s horses and all
+the King’s men\\
+Couldn’t put Humpty together
+again.
+\end{verse}
+\end{flushleft}
+
+
+
+\section{HHH}
+
+between the verbatim and its ending, all texts are printed out, including the blank and separate line, without any \LaTeX{} command.
+similarly, using \\{verb} is the same.
+
+\begin{verbatim}
+10 PRINT "HELLO WORLD";
+20 GOTO 10
+\end{verbatim}
+
+% verbatim* will output all the result in this pharase
+\begin{verbatim*}
+the starred version of
+the    verbatim environment emphasizes
+the spaces   in the text
+\end{verbatim*}
+
+
+\section{III: table}
+
+% l for left column, r for right column, c for middle column, p{w} for width, | for vertical
+%% in tabular environment, & jumps to next column, \\ jumps to new line, \hline insert horizantal line, \cline{j-i} insert column jth to ith
+
+\begin{tabular}{|r|l|} % two columns, right-aligned and left-aligned
+\hline
+7C0 & hexadecimal \\
+3700 & octal \\ \cline{2-2}
+111110000 & binary \\
+\hline
+
+\hline
+1984 & decimal \\
+\hline
+
+
+\hline
+\end{tabular}
+\newline
+
+\begin{tabular}{|p{4.7cm}|}
+\hline
+Welcome to Boxy’s paragraph.
+We sincerely hope you’ll
+all enjoy the show.\\
+\hline
+\end{tabular}
+
+
+
+
+\end{document}
+
