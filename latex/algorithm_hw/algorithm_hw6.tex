@@ -24,21 +24,61 @@
 \section{Nonhamiltonian Odd Bipartite Graphs (20 points)}
 Question: Prove that if $G$ is an undirected bipartite graph with an odd number of vertices, then $G$ is nonhamiltonian.
 
+~\\
+\textbf{Solution}:\newline
+From intuition that we know this bipartite graph has two parts that contain different number of vertices, and the sum is odd, then there must be one side that contains larger number of vertices, let's say the one side has $m$ vertices, and the other side has $n$ vertices$(m<n, n - m \geq 1)$.
+
+Then no matter from which side we try to start the cycle, we will return to the larger side since it has more vertices, after that, there is either one vertice left in this side, or other odd numbers of vertices left in this side that is not visited. If we want to form a hamiltonian cycle, we should return to the start-point, so it means we need to add at least an edge from the same side so that it will contain all the points that are not visited. But it contradicts with the condition that it's bipartite, which mean that it should not have an edge for the same side, otherwise it cannot be divided into the same side. So this proof can demonstrate that it is nonhamiltonian.
 
 \section{Enumerating Vertices (20 points)}
 Question: Show that if HAM-CYCLE $\in{P}$, then the problem of listing the vertices of a hamiltonian cycle, in order, is polynomial-time solvable.
 
+~\\
+\textbf{Solution}:\newline
+From the description we know that it assumes HAM-CYCLE could be solved in polynomial time, so that it belongs to $P$-problem. From this condition, we could get a basic understanding that solving this problem seems "harder" than just
+listing the vertices of a hamiltonian cycle, as it seems that the second problem could be solved if the first is solved.
+
+Above this assumption, we could add some extra steps in the solving process of HAM-CYCLE, so first when we try to solve the HAM-CYCLE, each step that moves the vertice from one to another, we record the start-point and end-point, as well as the edge between them, by this way, we will record all the possibility of the selection. And if there is some backward steps, then we just need to delete these edges and points, so that we could always maintain a point-sets and edge-sets, which record the right PATH that forms a solution for the hamiltonian cycle.
+
+At last, we know that the original solution could take a polynomial time, so our method that records the vertices and edges could also take the \textbf{same} complexity, which means that if HAM-CYCLE $\in{P}$, then the problem of listing the vertices of hamiltonian cycle in order, is also polynomial-time solvable.
+
+
 \section{Hamiltonian Path (10 points)}
 Questioin: A \textbf{hamiltonian path} in a graph is a simple path that visits every vertex exactly once. Show that the language HAM-PATH=\{$<G,u,v>$ : there is a hamiltonian path from $u$ to $v$ in graph $G$\} belongs to NP.
 
+~\\
+\textbf{Solution}:\newline
+From a general view, if we want to prove that a problem is $NP$-problem, then we just need to prove that it can be verified in polynomial time. So that's say we just need to prove the given a solution of HAM-PATH, we could verify it in a polynomial time. Now let's give a formal proof.
+
+If we have got a solution for HAM-PATH, which is to say that given two vertices $(u, v)$, we could find a hamiltonian path from $u$ to $v$. Then in order to verify it, we just need to do the following verification:
+
+1) check all the vertices in this path that are \textbf{ALL} listed in the original graph, without any missing or abundant(which fits the definition of hamiltonian path).
+
+2) check that the vertices are visited exactly only once, which is to say that no repeated vertices is visited.
+
+3) check each edge in this path is contained in the original graph, no extra edges that doesn't belong to graph are added. 
+
+After all these verification, we could know whether this path is a solution or not for this problem. And let's compute the complexity of this procedure, it is \boldmath\underline{{$O(|V| + |E|_{path})$}}\unboldmath. Since for a given graph its vertex and edges could be determined in polynomial time, it's easy to verify in polynomial time. So this problem could be verified in polynomial time, and it is a $NP$-problem.
 
 
 \section{Hamiltonian Path in DAG (10 points)}
 Question: Show that the hamiltonian-path problem from Exercise 34.2-6 can be solved in polynomial time on directed acyclic graphs. Give an efficient algorithm for the problem.
 
+~\\
+\textbf{Solution}:\newline
+For this particular problem, we could find a polynomial-time solution for it and then it's proven it could be solved in polynomial-time.
+
+In this following step, I will give some steps that will demonstrate it will resolve the problem:
+
+1) find a path that in-degree is zero, because for a DAG it must have a source node that in-degree is zero.
+
+2) remove the source node which in-degree is zero and its neighboring edges so that we could find the next node to start.
+
+3)
 
 
-\section{DNF\-SAT$\in{P}$(20 points)}
+
+\section{DNF-SAT$\in{P}$(20 points)}
 Question: Show that the problem of determining the satisfiability of boolean formulas in disjunctive normal form is polynomial-time solvable.
 
 
