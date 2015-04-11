@@ -70,11 +70,15 @@ For this particular problem, we could find a polynomial-time solution for it and
 
 In this following step, I will give some steps that will demonstrate it will resolve the problem:
 
-1) find a path that in-degree is zero, because for a DAG it must have a source node that in-degree is zero.
+1) find a path in the original graph $G$ that in-degree is zero, because for a DAG it must have a source node that in-degree is zero. If there're more than one nodes, then there is no solution, since every node must be visited, but the zero degree should start first and if there're more than one point, then there must be some nodes that left cannot be visited at first.
 
-2) remove the source node which in-degree is zero and its neighboring edges so that we could find the next node to start.
+2) remove the source node which in-degree is zero and its neighboring edges so that we could find the next node to start, let's assume that the left graph is $G'$.
 
-3)
+3) if the left graph $G'$ has more than two nodes or vertices that have the in-degree which is zero, then we could judge that it's unsolvable, because as I said in 1) there is no way to visit those nodes since there in-degree is zero and there should only be one to visit after its predecessor.
+
+4) keep doing the 3) until we have reached the end-point, which there is no other nodes to visit. If there is some nodes that are not visited but we cannot find an edge to reach it, then it's unsolvable, otherwise we should get the solution.
+
+From the above steps, we have found the solution for the hamiltonian-path, and its complexity if $O(|E|+|V|)$, while here $|V|$ is the number of vertices in the graph and $|E|$ is the number of edges in the graph, because we have to trace the vertices and its neighborhood edges from $v_{1}$ to $v_{n}$. We know that it is done in polynomial time.
 
 
 
