@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{textcomp}
+
+\begin{document}
+
+\lstset{language=c++}
+\begin{lstlisting}[frame=tb]{somecode}
+    for(i = 0; i < 10; i++)
+    {
+        // increment the pointer
+        *p++ = i;
+    }
+\end{lstlisting}
+
+\lstset{language=r,
+basicstyle=\ttfamily,
+  keywordstyle=\color{blue},
+  commentstyle=\color{darkgreen},
+  stringstyle=\color{red}}
+\begin{lstlisting}[frame=tb]{somecode}
+    for(i = 0; i < 10; i++)
+    {
+        // increment the pointer
+        *p++ = i;
+    }
+\end{lstlisting}
+
+
+\end{document}
