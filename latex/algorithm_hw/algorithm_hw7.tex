@@ -1,0 +1,93 @@
+\documentclass{article}
+\usepackage{titlesec}
+\usepackage[page]{totalcount}
+\usepackage{textcomp}
+\usepackage{graphicx}
+\usepackage{latexsym} % diamond
+\author{Chang Liu}
+\title{Algorithm HW7}
+
+\begin{document}
+
+\newpagestyle{main}{
+	\sethead{Chang Liu}{Algorithm HW7}{chang\_liu\\@student.uml.edu}
+	\setfoot{}{}{\thepage \// \totalpages}
+	\headrule
+	\footrule
+}
+
+\pagestyle{main}
+
+\section{Na\"{\i}ve and Speedy (15 points)}
+Question: Suppose that all characters in the pattern $P$ are different. Show how to accelerate \emph{NAIVE-STRING-MATCHER} to run in time $O(n)$ on an $n$-character text $T$.
+
+~\\
+\textbf{Solution}:\newline
+\indent 
+
+
+
+
+\section{Diamonds On The Inside (15 points)}
+Question: Suppose we allow the pattern $P$ to contain occurrences of a \textbf{gap character} $\Diamond$ that can match an \emph{arbitrary} string of characters (even one of zero length). For example, the pattern $ab\Diamond{ba}\Diamond{c}$ occurs in the text $cabccbacbacab$ as
+
+\begin{center} % add this to make the figure shows in the middle of the pages
+\includegraphics[scale=0.3]{p2.png} % here we could never use [] option, but it's too large, use "scale" or width=xxxin, height=xxxin to set
+%\caption{EHD descriptor for distinguishing the image}
+\end{center}
+
+\noindent Note that the gap character may occur an arbitrary number of times in the pattern but not at all in the text. Give a polynomial-time algorithm to determine whether such a pattern $P$ occurs in a given text $T$ , and analyze the running time of your algorithm.
+
+~\\
+\textbf{Solution}:\newline
+\indent 
+
+
+\section{Union of Patterns (15 points)}
+Questioin: How would you extend the Rabin-Karp method to the problem of searching a text string for an occurrence of any one of a given set of $k$ patterns? Start by assuming that all $k$ patterns have the same length. Then generalize your solution to allow the patterns to have different lengths.
+
+~\\
+\textbf{Solution}:\newline
+\indent 
+
+
+\section{String Squared (15 points)}
+Question: Show how to extend the Rabin-Karp method to handle the problem of looking for a given $m \times m$ pattern in an $n \times n$ array of characters. (The pattern may be shifted vertically and horizontally, but it may not be rotated.)
+
+~\\
+\textbf{Solution}:\newline
+\indent 
+
+
+\section{Nothing Compares (15 points)}
+Question: We call a pattern $P$ \textbf{nonoverlappable} if $P_{k} \sqsupset P_{q}$ implies $k = 0$ or $k = q$. Describe the state-transition diagram of the string-matching automaton for a nonover-lappable pattern.
+
+~\\
+\textbf{Solution}:\newline
+\indent 
+\section{Automaton for Diamonds (15 points)}
+%\| 是双竖线，等价于 \Vert，一般是范数、模，和绝对值是两个东西。绝对值就是直接打 |x|，或者加上 \left| x \right|。其中 | 可用 \vert 代替。
+Question: Given a pattern $P$ containing gap characters (see Exercise 32.1-4), show how to build a finite automaton that can find an occurrence of $P$ in a text $T$ in $O(n)$ matching time, where $n = |T|$.
+
+~\\
+\textbf{Solution}:\newline
+\indent 
+
+\section{π is Perfect (15 points)}
+Question: Explain how to determine the occurrences of pattern $P$ in the text $T$ by examining the $\pi$ function for the string $PT$ (the string of length $m+n$ that is the concatenation of $P$ and $T$).
+
+~\\
+\textbf{Solution}:\newline
+\indent
+
+\section{Cyclic Rotation (15 points)}
+Question: Give a linear-time algorithm to determine whether a text $T$ is a cyclic rotation of another string $T'$ . For example, $arc$ and $car$ are cyclic rotations of each other.
+
+~\\
+\textbf{Solution}:\newline
+\indent
+
+
+
+
+\end{document}
