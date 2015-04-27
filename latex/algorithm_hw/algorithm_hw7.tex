@@ -23,10 +23,13 @@ Question: Suppose that all characters in the pattern $P$ are different. Show how
 
 ~\\
 \textbf{Solution}:\newline
-\indent 
+\indent We could use a hash-table or mapping strategy to make it less when comparing with each element of the patter P. To make it clear, before when we use the NAIVE-STRING-MATCHER algorithm, it takes $(n-m-1)*m$ time to finish it, where the $n-m-1$ is the possible compare location, and for each location, we have to compare the pattern with the text one by one, which is $m$ times.
 
+To reduce the cost of the algorithm, if we could find a hash-mapping scheme to get a directly representation of the patter $P$, for example, mapping this string to an integer, and then for the whole text $T$, we could also get $n-m-1$ integers, and the compare between integers are constant, which is $O(1)$, and should no longer be $m$, then the whole cost of the algorithm is $O(n-m-1)$, which could be regarded as $O(n)$.
 
+Here we could easily find the mapping scheme, according to the characters of patter $P$, each characters are different, so for a string, it is easy to map it directly to an integer. Here for pattern $P$ with the length of $m$, we could map `a' to be `1' in the first position(position is from left to right), then `b' to be `2', `c' to be `3'..., in this way once we get a new character, just use character-`a'+1 should work for all the mapping, if there are other characters unlike `a'$\sim$`z' or `A'$\sim$`Z', we still could build the map since this mapping is based on all the containing characters in text $T$. For example, string ``abc'' could be mapped directly to an integer ``123'', since they're different for each character and if we map `a' to be `1' then all others are corresponded. Similarly, the text $T$ could also be translated.
 
+In this mapping scheme, it is constant for the mapping and the whole cost is $O(n)$.
 
 \section{Diamonds On The Inside (15 points)}
 Question: Suppose we allow the pattern $P$ to contain occurrences of a \textbf{gap character} $\Diamond$ that can match an \emph{arbitrary} string of characters (even one of zero length). For example, the pattern $ab\Diamond{ba}\Diamond{c}$ occurs in the text $cabccbacbacab$ as
