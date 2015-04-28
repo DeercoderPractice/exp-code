@@ -2,6 +2,28 @@
 \usepackage{listings}
 \usepackage{color}
 \usepackage{textcomp}
+\usepackage{graphicx}
+
+\lstset{language=C,
+        tabsize=2,
+        keywordstyle=\color{blue},
+        %numbers=left,
+        stepnumber=1,
+%       numberstyle=\tiny,
+        keepspaces=false,
+        breakindent=2pt,
+%       basicstyle=\footnotesize,
+        showspaces=false,
+        flexiblecolumns=true,
+        breaklines=true,
+        breakautoindent=true,
+        breakindent=1em,
+        escapeinside={/*@}{@*/},
+        frameround=tttt,
+        frame=trBL,
+       escapeinside=``,
+}
+
 \title{R-CNN Research in Food Type Recognition and Classification}
 
 \author{Chang Liu}
@@ -13,8 +35,83 @@
 
 \newpage
 
-\section{Problem Set}
 
+
+\section{Basic}
+
+In this section, I will give some discussion about the 
+
+
+\section{Flow}
+
+
+
+\section{Time cost}
+For these steps, it takes a large amount of time to get the pre-trained models, then generating our own data configurations for the fine-tuning stage, even when we finished all these hard-labor work, it still takes a long time to do the fine-tuning; Even after that, we should also not the training SVM detectors and extract CNN features also take a long time.
+
+for details, please check the table below:
+
+[to be extended]
+~\\
+
+Stages:
+
+1) Pre-training, the labor work is that we need to generate a full list of images that are used for pre-training, the list should contain the file name, as well as the labels for this images, giving the category of the image, no other information like bounding box is needed.
+
+2) Fine-tuning, this takes much time to generate the \textbf{right} files, as the following shows:
+
+\begin{center}
+\includegraphics[scale=0.3]{cost_p1.png}
+\end{center}
+
+In the first step, we need to generate some window files that could be used for fine-tuning. Each image should contain a tons of boxes that could be used for fine tuning, and this producing step takes much time, not to say the later fine-tuning stages using caffe, the \emph{.prototxt} file is as follow shows:
+
+\begin{center}
+\includegraphics[scale=0.3]{cost_p2.png}
+\end{center}
+
+We should not that how caffe use this \emph{window\_file\_voc\_2007\_train.txt} is unseen for us, so we should do some searching or reference if we ant to know more about it, it is not related with R-CNN codes.
+
+3) SVM detectors and feature extracting, this stages contain five necessary steps that perform the testing, as following:
+
+\begin{lstlisting}
+>> rcnn_exp_cache_features('train');   % chunk1
+>> rcnn_exp_cache_features('val');     % chunk2
+>> rcnn_exp_cache_features('test_1');  % chunk3
+>> rcnn_exp_cache_features('test_2');  % chunk4
+>> test_results = rcnn_exp_train_and_test() % real testing
+\end{lstlisting}
+
+All these four chunks are necessary for the SVM detector generation, after the first 4 chunks we should get the classifier or detector, the 5th step is used for testing of all the dataset(train, val, test) and output the mAP for each category.
+
+For the cost of each chunk, it takes 8 to 9 hours to finish it since each image has so many candidates or boxes.
+
+
+\section{Code Review}
+
+
+\section{How to implement on your own dataset}
+
+
+\section{Extension Reading}
+
+
+
+\section{Appendix}
+
+In this section, I will give some summary for the problems that I meet in the debugging stage, which will provide some reference if someone else wants to do their own experiments and save them a large mount of time.
+
+
+\subsection{Caffe running only for a while}
+
+The reason for this is that it just recognize the first image, even though in \emph{window\_file\_voc\_2007\_train.txt} there is a full list of images, Caffe seems that it doesn't recognize it. Since there is no any error information in the following log information of fine-tuning, so it's applicable to find some reason by the command output.
+
+Instead, I compare the file format with the old VOC2007 file format, and it gives me the clues that maybe the window.txt has something wrong, because the first line of the box is float format, so I replace it with its corresponding integer format, then re-running this fine-tuning process.
+
+The result shows that it recognize more images, So I think that the cause is that Caffe just accept the integer format of data in this definition, so I modify some codes to round the float to make it an integer. The result shows that it works well.
+
+
+Sample output that I have fixed the problem and it start to keep running for many iterations, as follows:
 
 \begin{lstlisting}
 

@@ -1,2 +1,9 @@
-\contentsline {section}{\numberline {1}Problem Set}{2}
-\contentsline {section}{\numberline {2}abbb}{9}
+\contentsline {section}{\numberline {1}Basic}{2}
+\contentsline {section}{\numberline {2}Flow}{2}
+\contentsline {section}{\numberline {3}Time cost}{2}
+\contentsline {section}{\numberline {4}Code Review}{3}
+\contentsline {section}{\numberline {5}How to implement on your own dataset}{3}
+\contentsline {section}{\numberline {6}Extension Reading}{3}
+\contentsline {section}{\numberline {7}Appendix}{3}
+\contentsline {subsection}{\numberline {7.1}Caffe running only for a while}{4}
+\contentsline {section}{\numberline {8}abbb}{13}
