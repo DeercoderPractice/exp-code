@@ -63,7 +63,11 @@ Questioin: How would you extend the Rabin-Karp method to the problem of searchin
 
 ~\\
 \textbf{Solution}:\newline
-\indent 
+\indent The algorithms are similar to the Rabin-Karp method, except that there are many patterns that form a union.
+
+1) For the patterns that has the \textbf{same} length: first we compute the number form of the pattern string by using the method described in the Rabin-Karp, after that we randomly select a prime number to calculate the mode. Then for the original string $T$, we also select the same length string, and using the same function to calculate the number form and divided by the prime number to get the mode. If the mode are the same, we further carefully check whether they're actually the same; If not then they're not matched, check the other strings. For any of the pattern in the pattern set, we could do the same process to check whether it contains each of the pattern.
+
+2) For the patterns that does have \textbf{different} length: the process is quite similar except that we choose different length of strings to convert it the number form, for each pattern, we choose the same length string to covert when checking whether they're the same; since the pattern may have different length, for the check of single pattern, we should make sure that our selected substring in the original text $T$ should be the same with the current pattern length. Then check all the patterns in the pattern set.
 
 
 \section{String Squared (15 points)}
@@ -71,7 +75,21 @@ Question: Show how to extend the Rabin-Karp method to handle the problem of look
 
 ~\\
 \textbf{Solution}:\newline
-\indent 
+\indent This strategy is quite similar to the last question, except that there is more comparing because it contain a two dimensional patterns, so our focus is just to divide the $m \times m$ to some sub-strings that can be compared with the original string in the $n \times n$.
+
+1) from the beginning to the end for the text $T$ in the column, move the pattern from left to right, so we should have $n-m$ times move.
+
+2) from top to bottom for the text $T$ in the row, move the pattern from up to down, so we should also have $n-m$ times move.
+
+No matter what position we're current in when the pattern moves in the text rectangle $T$, we just need the compare the $m \times m$ pattern with the $m \times m$ elements correspondingly.
+
+To compare this $m \times m$ elements, we could divide the rectangle into $m$ rows or $m$ columns, and compare this $p_{i}$ with the corresponding string in the text at the same position. Regarding how to compare it, it is then divided into the compare the the same string, we could use the same method in question 3) and apply the Rabin-Karp method to solve it one by one.
+
+The figure could be as follows, we just move the shadow square from left to right and from top to bottom, and compare the square with the original text string square correspondingly.
+
+\begin{center}
+\includegraphics[scale=0.2]{hw7_1.png}
+\end{center}
 
 
 \section{Nothing Compares (15 points)}
