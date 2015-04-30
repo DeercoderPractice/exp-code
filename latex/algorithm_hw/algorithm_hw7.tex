@@ -35,7 +35,7 @@ In this mapping scheme, it is constant for the mapping and the whole cost is $O(
 Question: Suppose we allow the pattern $P$ to contain occurrences of a \textbf{gap character} $\Diamond$ that can match an \emph{arbitrary} string of characters (even one of zero length). For example, the pattern $ab\Diamond{ba}\Diamond{c}$ occurs in the text $cabccbacbacab$ as
 
 \begin{center} % add this to make the figure shows in the middle of the pages
-\includegraphics[scale=0.3]{p2.png} % here we could never use [] option, but it's too large, use "scale" or width=xxxin, height=xxxin to set
+\includegraphics[scale=0.3]{hw7_p1.png} % here we could never use [] option, but it's too large, use "scale" or width=xxxin, height=xxxin to set
 %\caption{EHD descriptor for distinguishing the image}
 \end{center}
 
@@ -97,7 +97,17 @@ Question: We call a pattern $P$ \textbf{nonoverlappable} if $P_{k} \sqsupset P_{
 
 ~\\
 \textbf{Solution}:\newline
-\indent 
+\indent This \textbf{nonoverlappable} pattern has the property that for a sub-string of any length that are no less than 2 characters, it should not be an substring of its pattern $P$. For example, here we has a string `$abcabdef$', the first sub-string `$ab$', and the next substring `$abdef$', the first is just another part of the next, so it is not a \textbf{nonoverlappable} string.
+
+This property shows that none of the substring should overlap with another substring of the original pattern. If we should use a state-transition diagram, then all the elements in the diagram should go back to the original start node.
+
+Here I draw a draft graph which could describe the situation, then apart from the start and end node, all the \textbf{middle} nodes should go back to the starting node, otherwise it has an overlap of equal or more than 2 characters, that would not meet the \textbf{nonoverlappable} requirements. Regarding the last node, it doesn't have the requirement, so that it is the situation of $k = 0$ or $k = q$.
+
+\begin{center}
+\includegraphics[scale=0.3]{hw7_2.png}
+\end{center}
+
+
 \section{Automaton for Diamonds (15 points)}
 %\| 是双竖线，等价于 \Vert，一般是范数、模，和绝对值是两个东西。绝对值就是直接打 |x|，或者加上 \left| x \right|。其中 | 可用 \vert 代替。
 Question: Given a pattern $P$ containing gap characters (see Exercise 32.1-4), show how to build a finite automaton that can find an occurrence of $P$ in a text $T$ in $O(n)$ matching time, where $n = |T|$.
