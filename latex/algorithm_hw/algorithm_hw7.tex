@@ -114,7 +114,20 @@ Question: Given a pattern $P$ containing gap characters (see Exercise 32.1-4), s
 
 ~\\
 \textbf{Solution}:\newline
-\indent 
+\indent Here we know that the solution for automaton in matching is $O(n)$ once the state-transmission diagram is given, and the preprocessing time for the generating is $O(m|\Sigma|)$, m is the length of pattern, and $|\Sigma|$ is the alphabet number.
+
+For this special pattern, since it contains `$\Diamond$', so when encountering it: 
+
+1) we could just ignore it as it is an empty character, so draw an arrow that points to itself, meaning that it will not affect the current state.
+
+2) Or we could see that it could also represent any number(except the whole string length) of characters, in this case, it could represent 1, 2, 3, ... characters of any alphabet in that situation, so the arrow should point to next element, next 2nd element, next 3rd element ... but we should not the the symbol should contributes to the next match, so we should only select those destionation points that lays after the symbol `$\Diamond$'. For example, string `$ab\Diamond{}cab$', then when in the 2nd node b, we should only make lines that points to the node with the character `c', \textbf{it should always point to the node that lays behind the character `$\Diamond$'}.
+
+I draw a draft graph as follows, there is no character that states the situation of 2) but is should be clear now in my statement.
+
+\begin{center}
+\includegraphics[scale=0.3]{hw7_3.png}
+\end{center}
+
 
 \section{$\pi$ is Perfect (15 points)}
 Question: Explain how to determine the occurrences of pattern $P$ in the text $T$ by examining the $\pi$ function for the string $PT$ (the string of length $m+n$ that is the concatenation of $P$ and $T$).
