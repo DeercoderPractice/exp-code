@@ -134,7 +134,9 @@ Question: Explain how to determine the occurrences of pattern $P$ in the text $T
 
 ~\\
 \textbf{Solution}:\newline
-\indent For this concatenation of $P$ and $T$, we should know that their $\pi$ function records the value that the current character is the same as the previous character. As the following figure shows 
+\indent For this concatenation of $P$ and $T$, we should know that their $\pi$ function records the value that the current character is the same as the previous character. As the following figure shows, $\pi$ function should always be smaller than the original sequence number.
+
+Then if there is a string $PT$, then after it finish the pattern $P$, the $\pi$ function should get the maxmium value at this point, because later it will decrease. And for this special string, we find that when the index $i \geq {2 \times m}$, then the $\pi$ function should always be $m$, here $m$ is the value of the length of pattern $P$. Because after the length of $2 \times m$, the possible $\pi$ value of the whole string should be match the last character of pattern $P$, and here we choose $2 \times m$ is that in the sequece from $m$ to $2 \times m$ there is still possibility that some character is the same as the previous so it may be less than $m$, but after $2  \times m$, we could guarantee the situation.
 
 
 \begin{center}
@@ -147,9 +149,18 @@ Question: Give a linear-time algorithm to determine whether a text $T$ is a cycl
 
 ~\\
 \textbf{Solution}:\newline
-\indent
+\indent Here when saying it is a cyclic rotation of each other, we could form a new string that connect the original string and its cyclic form, then check its $\pi$ function to test whether it's cyclic, and this KMP algorithm should also have the complexity of $O(n)$.
 
+For example, here gives an example, for string `arc', form a new string of `arcar', this string has the part of original string `arc', and the latter part is the cyclic form, except that they share the last character of the original string. There is another form that `car' comes first, which new string should be `carc', in this situation they shared two characters `ar'.
 
+So the steps are as follows:
 
+1) Form the new string as the scheme shown above, first part is just to use the original string, second part is the next string, but we should omit the character or characters when concatenating the first and second part.
+
+2) Then for this new string, calculate the $\pi$ function as the KMP-algorithm shows.
+
+3) For the cyclic string, since it is cyclic, then no matter in what situation in the step 1), it should always have the property that every $m$ character it repeats($m$ is the length of the string), so in the $\pi$ function, after $i > m$, it should have the form of $1, 2, 3, ... m$, ... $1+k, 2+k, 3+k, ... m+k$, that's to say that ther should be a continuous sequence and they are the arithmetic sequence and should have the deviation of 1 between each neighbor number. If it meets the requirement after $i > m$ for every consequence, then it is cyclic; otherwise it is not.
+
+After the pre-processing of this $\pi$ function table, then we just need to check this table to see if it works, the complexity of checking the sequence of table is $O(n)$.
 
 \end{document}
