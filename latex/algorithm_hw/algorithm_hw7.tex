@@ -43,7 +43,19 @@ Question: Suppose we allow the pattern $P$ to contain occurrences of a \textbf{g
 
 ~\\
 \textbf{Solution}:\newline
-\indent 
+\indent This question could be solved using a dynamic programming problem.
+
+1) First, for each pattern, it is divided by the $`\Diamond'{}$ characters, so we could get some substrings that are part of the original string.
+
+2) Second, when we get the first part of the pattern $P$, for example, here $ab\Diamond{}ba\Diamond{}c$, it contains three substring which are ``ab'', ``ba'', ``c'', so we first traverse the whole original string to find the first substring ``ab''. If not found, then no match; else there is a possible match, we should find the next parts. And if we find that the next parts are not matched, we should move on and find the next possible match for the first part, because there is possibility that maybe the next substring in original string could match.
+
+3) When we find the first match in the original string, what we need to do next is to find the remaining match. Mark the remaining string in the original string $T$ as the $T_{n-1}$, which subtracts the string from the first letter to the last matched part, so the problem could be regarded as $$ T_{n} = T_{n-1} \&\& Is\_first\_part\_matched(P_{1}) $$ here $P_{1}$ means the first part of the pattern $P$, as the example in the 2) shows ``ab''.
+
+4) So according to the equations in the step 3), we should know that this question could be divided into many sub-questions, and if we find all the solutions of the sub-question, we could solve it, the key is to find the solution of function $Is\_first\_part\_matched(P_{i})$, which needs to be calculated by comparing the pattern part $P_{i}$ with the remaining text string $T_{n-i}$.
+
+5) If all answers are yes, then their is a solution and the string has a match for the pattern. Otherwise, keep trying the traversing in step 2) until it find the next matches or reached the end, if it has been the end but still has no solution, then there is no match.
+
+The overall complexity for my algorithm is $O(mn)$, because the pattern and the text both needs to be compared during this whole process, their are two loops that compare.
 
 
 \section{Union of Patterns (15 points)}
