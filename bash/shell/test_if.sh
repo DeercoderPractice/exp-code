@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo $1
+echo $1 # output the first parameter
 
 if [ $1 == 1 ]
 then
