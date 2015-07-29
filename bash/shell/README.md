@@ -16,4 +16,12 @@ README
 		dirname /usr/local/share/doc/food/food.txt	# the result is /usr/local/share/doc/food
 
 
-4. 
+4. file compare operation is used for dealing with the files by using their property like exist, directory or read/write/execute, and string compare is used for comparing strings, algorithmetic compare is used for comparing the number of the equations.
+
+
+
+5. For string compare, it is always better to include the `" "` for the variables.
+	
+		if [ "$myvar" = "one two three" ]	# Good practice
+		if [ $myvar = "one two three" ] 	# Bad practice for multi-word strings
+
