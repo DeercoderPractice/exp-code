@@ -38,3 +38,4 @@ a.out
 # omit for packages
 *.zip
 *.tar.gz
+*.out
