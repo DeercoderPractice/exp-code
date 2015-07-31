@@ -25,3 +25,7 @@ README
 		if [ "$myvar" = "one two three" ]	# Good practice
 		if [ $myvar = "one two three" ] 	# Bad practice for multi-word strings
 
+
+6. We can put the function in the `~/.bashrc` or `~/.bash_profile`, in order to use it
+
+7. In the function, the variable is useful in the global area, so that when exiting the function the variable is still useful in the area
